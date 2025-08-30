@@ -19,12 +19,12 @@ jobs:
       - name: 获取上游仓库最新更改
         run: git fetch upstream
 
-      - name: 合并上游仓库main分支的更改
+      - name: 合并上游仓库master分支的更改
         run: |
-          git checkout master  # 改为master分支
-          git merge upstream/main --allow-unrelated-histories
+          git checkout master
+          git merge upstream/master --allow-unrelated-histories  # 改为合并upstream/master
 
       - name: 推送到当前仓库
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: git push origin master  # 改为master分支
+        run: git push origin master
