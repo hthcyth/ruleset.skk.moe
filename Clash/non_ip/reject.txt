@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Non-IP
-# Last Updated: 2025-08-29T05:16:02.209Z
-# Size: 769
+# Last Updated: 2025-09-08T19:25:05.010Z
+# Size: 770
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -332,6 +332,7 @@ DOMAIN-WILDCARD,parkdomainreal*.site
 DOMAIN-WILDCARD,broredir*s.site
 DOMAIN-WILDCARD,amazon-*.shop
 DOMAIN-WILDCARD,allegrolokalnie.*.shop
+DOMAIN-WILDCARD,gov.*.qpon
 DOMAIN-WILDCARD,zbb.bbb.*.pics
 DOMAIN-WILDCARD,t*.playdigo.live
 DOMAIN-WILDCARD,w*statistics.info
@@ -346,6 +347,7 @@ DOMAIN-WILDCARD,evri.*.xyz
 DOMAIN-WILDCARD,bitvavo*.vip
 DOMAIN-WILDCARD,baoviet*.vip
 DOMAIN-WILDCARD,dichvucong*.top
+DOMAIN-WILDCARD,dwp-yous*.top
 DOMAIN-WILDCARD,informed.delivery*.top
 DOMAIN-WILDCARD,bitvavo*.top
 DOMAIN-WILDCARD,baoviet*.top
@@ -420,7 +422,6 @@ DOMAIN-WILDCARD,policy*.cookieinformation.com
 DOMAIN-WILDCARD,pijama.*.elasticbeanstalk.com
 DOMAIN-WILDCARD,usps-packages-*.com
 DOMAIN-WILDCARD,log-*.previewnetworks.com
-DOMAIN-WILDCARD,highcpmrevenue*.com
 DOMAIN-WILDCARD,analytics*.clickdimensions.com
 DOMAIN-WILDCARD,host*.rigbyandpeller.com
 DOMAIN-WILDCARD,profitablecpm*.com

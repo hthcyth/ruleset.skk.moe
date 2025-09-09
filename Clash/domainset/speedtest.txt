@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2025-08-29T16:49:58.202Z
-# Size: 1465
+# Last Updated: 2025-09-08T17:09:19.514Z
+# Size: 1471
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -191,6 +191,7 @@ open.cachefly.net
 sp7.atcc-gns.net
 sp3.atcc-gns.net
 ookla.as400442.net
+speedtest.as215296.net
 speedtest-ams-nl.as215248.net
 lon.as214402.net
 speedtest.as214243.net
@@ -256,6 +257,7 @@ st.fratec.net
 speed2.dg-sys.net
 warp.cronon.net
 speedtest.coreix.net
+speedtest.aquiss.net
 +.speedtest.alagas.net
 speedtest-sjc.acreto.net
 speedtest.miam.fl.wtsky.net
@@ -264,6 +266,7 @@ speedtest-pth.vocus.net
 speedtest-mel.vocus.net
 speedtest-bne.vocus.net
 speedtest.sjc.sonic.net
+lnx01.smtns.net
 speedtest.rfnow.net
 +.nperf.net
 spdms.mytpn.net
@@ -1075,6 +1078,7 @@ speedtest.blacksun.ca
 t4y-tor-sts1.ser.tek4you.ca
 speedtest.cooptel.ca
 speedtest.lsvl.cooptel.ca
+yyc-speedtest02.xplore.ca
 yyz-speedtest.xplore.ca
 yyc-speedtest.xplore.ca
 st2.speedtest.vianet.ca
@@ -1130,6 +1134,7 @@ teste.speednetpa.net.br
 srvteste.edntelecom.net.br
 velocidade.rltelecom.net.br
 teste.dstelecom.net.br
+speedtest-cam1.cyberlink.net.br
 speedtestitarema.cyberinfo.net.br
 sp1.cyberinfo.net.br
 sp1.cltelecom.net.br
@@ -1325,6 +1330,7 @@ lvconnect.brsserver.com.br
 glconnect.brsserver.com.br
 fwnetwork.brsserver.com.br
 speednet.brsserver.com.br
+asanet1.brsserver.com.br
 asanet.brsserver.com.br
 velocidadestm.amazonett.com.br
 speed.amazonett.com.br
