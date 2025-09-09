@@ -12,6 +12,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      
+      - name: 配置 Git 用户名和邮箱
+        run: |
+          git config --global user.name "hthcyth"  # 替换为自定义名称，如 "CloudWorkflowBot"
+          git config --global user.email "mak.josn@gmail.com"   # 替换为真实邮箱，如 "bot@example.com"
 
       - name: 添加上游仓库远程地址
         run: git remote add upstream https://github.com/SukkaLab/ruleset.skk.moe.git || true
