@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2026-03-17T04:30:49.685Z
-# Size: 135026
+# Last Updated: 2026-03-17T05:56:34.858Z
+# Size: 135035
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6782,6 +6782,7 @@
 +.icysmp.store
 +.himuro.store
 +.heijbo.store
++.haruko.store
 +.hackne.store
 +.goppor.store
 +.glisot.store
@@ -15705,6 +15706,7 @@
 +.zentravora.shop
 +.zalando-on.shop
 +.zalando-dk.shop
++.yyderfreap.shop
 +.youngemily.shop
 +.ycollected.shop
 +.xlbracreen.shop
@@ -16797,6 +16799,7 @@
 +.ochniker.shop
 +.novadean.shop
 +.nfpanorm.shop
++.netsugar.shop
 +.neo-ecom.shop
 +.naturapl.shop
 +.musawama.shop
@@ -17055,6 +17058,7 @@
 +.pepcohu.shop
 +.pepcoeu.shop
 +.pepcode.shop
++.paypays.shop
 +.owunder.shop
 +.ovalrev.shop
 +.outsale.shop
@@ -17116,6 +17120,7 @@
 +.growsmm.shop
 +.griperi.shop
 +.gorteks.shop
++.store.uszjj.fyjkxzq.shop
 +.friscos.shop
 +.fpqqywt.shop
 +.foxnora.shop
@@ -17226,6 +17231,7 @@
 +.rrmoto.shop
 +.rmailv.shop
 +.redpla.shop
++.qttlpn.shop
 +.qqhxta.shop
 +.qelvox.shop
 +.powvex.shop
@@ -17469,6 +17475,7 @@
 +.czak.shop
 +.budm.shop
 +.bdwp.shop
++.bcm8.shop
 +.500x.shop
 +.43e6.shop
 +.1yko.shop
@@ -25617,7 +25624,9 @@
 +.cor8edataline.info
 +.cookgardenlns.info
 +.consoleworldh.info
++.klelnanzeigen-deutch.confirm542351.info
 +.concertguideh.info
++.com-id3212341.info
 +.collnnegially.info
 +.coincollector.info
 +.coffeetravell.info
@@ -26350,6 +26359,7 @@
 +.coolmindxtop.info
 +.cookwriteukb.info
 +.comicsworldh.info
++.com-id129041.info
 +.coffeemetall.info
 +.codingworldh.info
 +.codingguideh.info
@@ -27134,8 +27144,9 @@
 +.cookenergyl.info
 +.comparenowh.info
 +.comicguideh.info
-+.com-id23901.info
++.com-id90123.info
 +.com-id20341.info
++.com-id02349.info
 +.coinloversh.info
 +.cogmindflow.info
 +.coffeewinel.info
@@ -84019,7 +84030,6 @@
 +.trablunaksisapp.com
 +.trabluksoreksai.com
 +.toytechmachines.com
-+.towerdepartment.com
 +.yourmom.tourismkinqston.com
 +.centerthick.totalspeedparst.com
 +.stoneworl.totalspeedparst.com
@@ -107135,7 +107145,6 @@
 +.lumonexora.com
 +.lumir-mart.com
 +.lulianbang.com
-+.lucysstyle.com
 +.lucrozynal.com
 +.lucravyrex.com
 +.luckypinak.com
@@ -114865,7 +114874,6 @@
 +.hhamidia.com
 +.hfjvmexh.com
 +.heyi5221.com
-+.heyfusio.com
 +.hewytei7.com
 +.hetianwq.com
 +.heslogic.com
@@ -130098,6 +130106,7 @@
 +.navi66.ru
 +.navi59.ru
 +.navi45.ru
++.store.navi42.ru
 +.navi39.ru
 +.navi38.ru
 +.navi36.ru

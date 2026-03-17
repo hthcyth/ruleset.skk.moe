@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-03-17T04:30:49.685Z
-# Size: 84835
+# Last Updated: 2026-03-17T05:56:34.858Z
+# Size: 84836
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -47408,6 +47408,7 @@ otn.samsungcloudcdn.com
 +.track.zulumarketing.com
 +.zp-gzs2-yts-a.com
 +.zlib-official.com
++.zhcxopfhzrfrc.com
 +.zeroredirect8.com
 +.zeroredirect5.com
 +.zeroredirect2.com

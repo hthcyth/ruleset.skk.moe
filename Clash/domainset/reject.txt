@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-03-17T04:30:49.684Z
-# Size: 111691
+# Last Updated: 2026-03-17T05:56:34.858Z
+# Size: 111704
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1075,6 +1075,7 @@ analytics.newgenre.studio
 +.gtm.area18-secreta.online
 +.alwaysdomain01.online
 +.zzlymkvojnjog.online
++.zyyswnroeevpw.online
 +.zypdunyryonff.online
 +.zycqqfbeadhgq.online
 +.zxavziahazmyb.online
@@ -5418,6 +5419,7 @@ bad.third-party.site
 +.t8h1qlvfe36hzqwug2.rest
 +.rpv7w7obc4fj2jlr95.rest
 +.nrgybhz3bl8qozuot2.rest
++.mrr7643pmp9obzwpj2.rest
 +.m5fmun8rb6ljnwj61n.rest
 +.ibfvb229cw6uqz6m7k.rest
 +.g8ur46v52wu4c4bi8y.rest
@@ -5626,6 +5628,7 @@ bad.third-party.site
 +.yarlyyappersinzer.qpon
 +.waygoneoncenosism.qpon
 +.wafdsurfuseenclog.qpon
++.vulgcloueealexine.qpon
 +.tetonsketchyconsy.qpon
 +.teleostabsupflows.qpon
 +.tallagestromenays.qpon
@@ -18773,6 +18776,7 @@ samsungcloudsolution.com
 +.tjumv.mindgamesfragrance.com
 +.server.milnovecientostres.com
 +.millprinciplesbaby.com
++.millionairepilgrim.com
 +.gudvs.millennialmagazine.com
 +.sst.mikemandelhypnosis.com
 +.midnightlotusgrove.com
@@ -27106,6 +27110,7 @@ display.360totalsecurity.com
 +.stape.escoladoouvido.com
 +.gtm.errezetaevents.com
 +.errablehoddins.com
++.erpqkcfvsjjyap.com
 +.erionoxcintene.com
 +.marketing.erioninsurance.com
 +.load.dvboost.erikschevrolet.com
@@ -37312,6 +37317,7 @@ d1.speedvitals.com
 +.t.shift-saudi.com
 +.fsbfjp.shhh-online.com
 +.link.shengcekeji.com
++.shatterloop.com
 +.fairfaxmedia.sharedcount.com
 +.analytics.shareaholic.com
 +.traffic.shareaholic.com
@@ -47243,6 +47249,7 @@ simple.cloudsmith.com
 +.1d22c41079.com
 +.1c6fd11ca2.com
 +.000c34b44b.1c3139f0ca.com
++.1bb4f2018f.com
 +.1b9e934cbd.com
 +.19o8hzj117.com
 +.197c4632ea.com
@@ -47580,6 +47587,7 @@ httpdns.yunxindns.com
 +.wlberlaiw.com
 +.wlafx4trk.com
 +.wkzvf2658.com
++.wjrdleqto.com
 +.wizoevljj.com
 +.wivo2gaza.com
 +.witkjcoux.com
@@ -53321,6 +53329,7 @@ advertise.baicizhan.com
 +.afflat3a1.com
 +.affcpatrk.com
 +.omniture.affarsliv.com
++.af1tsjdta.com
 +.strack.aetnafeds.com
 +.aesyahweh.com
 +.aests.aesthency.com
@@ -55704,6 +55713,7 @@ geolocation.onetrust.com
 +.trk.nojitter.com
 +.reg.nojitter.com
 +.load.sst.noirgaze.com
++.nohogrci.com
 +.data.nogorweb.com
 +.stats.nodewood.com
 +.server.nobletta.com
@@ -59300,6 +59310,7 @@ ads-api.twitter.com
 +.marketing.trucode.com
 +.metrics.trucker.com
 +.server.tronexo.com
++.trlzqly.com
 +.out.trkrabb.com
 +.trklnks.com
 +.trkcliq.com
@@ -61486,6 +61497,7 @@ report.idqqimg.com
 +.i-vengo.com
 +.hzstats.com
 +.campaigns.hygiena.com
++.hyaplnr.com
 hxcav77.com
 +.hvgcfx1.com
 +.server.hutghor.com
@@ -72924,6 +72936,7 @@ acs.56.com
 +.maghribstigmeseugonic.cfd
 +.l8p8krozuvt5uy9whp7xw.cfd
 +.kitlingamandusbobotee.cfd
++.i4oo4ftoicbtg3xp83bc6.cfd
 +.gheleemscratchdemises.cfd
 +.g3jzt6wknmzcxyoifb3bm.cfd
 +.fatwoodhumidlymalpais.cfd

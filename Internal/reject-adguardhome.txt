@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Tue, 17 Mar 2026 04:31:00 GMT
+! Last modified: Tue, 17 Mar 2026 05:56:44 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1097,6 +1097,7 @@
 ||gtm.area18-secreta.online^
 ||alwaysdomain01.online^
 ||zzlymkvojnjog.online^
+||zyyswnroeevpw.online^
 ||zypdunyryonff.online^
 ||zycqqfbeadhgq.online^
 ||zxavziahazmyb.online^
@@ -5568,6 +5569,7 @@
 ||t8h1qlvfe36hzqwug2.rest^
 ||rpv7w7obc4fj2jlr95.rest^
 ||nrgybhz3bl8qozuot2.rest^
+||mrr7643pmp9obzwpj2.rest^
 ||m5fmun8rb6ljnwj61n.rest^
 ||ibfvb229cw6uqz6m7k.rest^
 ||g8ur46v52wu4c4bi8y.rest^
@@ -5776,6 +5778,7 @@
 ||yarlyyappersinzer.qpon^
 ||waygoneoncenosism.qpon^
 ||wafdsurfuseenclog.qpon^
+||vulgcloueealexine.qpon^
 ||tetonsketchyconsy.qpon^
 ||teleostabsupflows.qpon^
 ||tallagestromenays.qpon^
@@ -19705,6 +19708,7 @@
 ||tjumv.mindgamesfragrance.com^
 ||server.milnovecientostres.com^
 ||millprinciplesbaby.com^
+||millionairepilgrim.com^
 ||gudvs.millennialmagazine.com^
 ||sst.mikemandelhypnosis.com^
 ||midnightlotusgrove.com^
@@ -28125,6 +28129,7 @@
 ||stape.escoladoouvido.com^
 ||gtm.errezetaevents.com^
 ||errablehoddins.com^
+||erpqkcfvsjjyap.com^
 ||erionoxcintene.com^
 ||marketing.erioninsurance.com^
 ||load.dvboost.erikschevrolet.com^
@@ -38542,6 +38547,7 @@
 ||t.shift-saudi.com^
 ||fsbfjp.shhh-online.com^
 ||link.shengcekeji.com^
+||shatterloop.com^
 ||fairfaxmedia.sharedcount.com^
 ||analytics.shareaholic.com^
 ||traffic.shareaholic.com^
@@ -48721,6 +48727,7 @@
 ||1d22c41079.com^
 ||1c6fd11ca2.com^
 ||000c34b44b.1c3139f0ca.com^
+||1bb4f2018f.com^
 ||1b9e934cbd.com^
 ||19o8hzj117.com^
 ||197c4632ea.com^
@@ -49062,6 +49069,7 @@
 ||wlberlaiw.com^
 ||wlafx4trk.com^
 ||wkzvf2658.com^
+||wjrdleqto.com^
 ||wizoevljj.com^
 ||wivo2gaza.com^
 ||witkjcoux.com^
@@ -54972,6 +54980,7 @@
 ||afflat3a1.com^
 ||affcpatrk.com^
 ||omniture.affarsliv.com^
+||af1tsjdta.com^
 ||strack.aetnafeds.com^
 ||aesyahweh.com^
 ||aests.aesthency.com^
@@ -57410,6 +57419,7 @@
 ||trk.nojitter.com^
 ||reg.nojitter.com^
 ||load.sst.noirgaze.com^
+||nohogrci.com^
 ||data.nogorweb.com^
 ||stats.nodewood.com^
 ||server.nobletta.com^
@@ -61157,6 +61167,7 @@
 ||marketing.trucode.com^
 ||metrics.trucker.com^
 ||server.tronexo.com^
+||trlzqly.com^
 ||out.trkrabb.com^
 ||trklnks.com^
 ||trkcliq.com^
@@ -63387,6 +63398,7 @@
 ||i-vengo.com^
 ||hzstats.com^
 ||campaigns.hygiena.com^
+||hyaplnr.com^
 |hxcav77.com^
 ||hvgcfx1.com^
 ||server.hutghor.com^
@@ -75110,6 +75122,7 @@
 ||maghribstigmeseugonic.cfd^
 ||l8p8krozuvt5uy9whp7xw.cfd^
 ||kitlingamandusbobotee.cfd^
+||i4oo4ftoicbtg3xp83bc6.cfd^
 ||gheleemscratchdemises.cfd^
 ||g3jzt6wknmzcxyoifb3bm.cfd^
 ||fatwoodhumidlymalpais.cfd^
