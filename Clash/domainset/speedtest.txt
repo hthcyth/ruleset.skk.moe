@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-03-17T17:51:35.770Z
-# Size: 2955
+# Last Updated: 2026-03-19T04:14:39.050Z
+# Size: 2956
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2253,6 +2253,7 @@ speedtest.wifinavas.es
 nuevotest.telecable.es
 speed.netassist.es
 speedpilas.liberatel.es
+speedtest14.digimobil.es
 speedtest12.digimobil.es
 speedtest10.digimobil.es
 speedtest9.digimobil.es
