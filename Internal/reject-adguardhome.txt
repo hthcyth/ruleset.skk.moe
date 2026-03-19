@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Thu, 19 Mar 2026 04:14:49 GMT
+! Last modified: Thu, 19 Mar 2026 05:56:28 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -5535,6 +5535,7 @@
 ||mpyixo2ijzon2zm.rest^
 ||lcz55h78ctvm6l6.rest^
 ||lbocf6ffn5ctelc.rest^
+||kk7rfk5wth8yh7f.rest^
 ||ibxxxm11tyli9uy.rest^
 ||hhlzk37ojyzj6e2.rest^
 ||hg1ot2k9ith1rgi.rest^
@@ -5627,6 +5628,7 @@
 ||pinuluslimlitorpors.qpon^
 ||peppilybalticpilula.qpon^
 ||nunbirdfaurednontan.qpon^
+||nitidmazdoorbaratte.qpon^
 ||mzunguopulussacculi.qpon^
 ||miffsnuttilyacquits.qpon^
 ||mezuzahbangkokhoyle.qpon^
@@ -7058,6 +7060,7 @@
 ||panicshestsfulk.cyou^
 ||8blvzz.p1gyvphqc57ui9e.cyou^
 ||mananabumpingbf.cyou^
+||immuneileusempt.cyou^
 ||hasididlespeise.cyou^
 ||gerbebolshiesfm.cyou^
 ||baatarveduteous.cyou^
@@ -37110,6 +37113,7 @@
 ||go.biz.alabamapower.com^
 ||sgtm.akuwoodpanel.com^
 ||akondcdtcric.com^
+||aknjnigrymlv.com^
 ||stat-ssl.akiba-souken.com^
 ||akfxajkhiaxp.com^
 ||invite.ak-ecosystem.com^
@@ -38816,6 +38820,7 @@
 ||analytics.qualityunit.com^
 ||qualiclicks.com^
 ||gtm.qualebroker.com^
+||qtvimspxpee.com^
 ||qpacubjmaod.com^
 ||sst.qookie-baby.com^
 ||qnhoqullbea.com^
@@ -39985,6 +39990,7 @@
 ||jixiangrong.com^
 ||jingniupool.com^
 ||jigsawlucky.com^
+||jfeeighqihi.com^
 ||s.jessieshome.com^
 ||jeedurazole.com^
 ||marketing.jdicleaning.com^
@@ -75096,6 +75102,7 @@
 ||aroeirarunletsmosaist.cfd^
 ||4r6c4p6ynkumgbgkg5nub.cfd^
 ||44vy4k8bvzc24k5pqnboc.cfd^
+||zwt2qgrhx72e5p2w6qwp.cfd^
 ||wolfkinfrousybizarre.cfd^
 ||volarycoastalmistone.cfd^
 ||usucaptboatedisology.cfd^

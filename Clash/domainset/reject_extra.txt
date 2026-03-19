@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-03-19T04:14:39.048Z
-# Size: 85370
+# Last Updated: 2026-03-19T05:56:18.282Z
+# Size: 85372
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -59400,6 +59400,7 @@ gpm.samsungqbe.com
 +.vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 +.id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 +.zuzonmzap.com
++.zqmhl8lgj.com
 +.zovihutum.com
 +.zonedummy.com
 +.refer.zomasleep.com
@@ -59833,6 +59834,7 @@ gpm.samsungqbe.com
 +.tadamatch.com
 +.tada-mail.com
 +.tackfreed.com
++.t7ywa5ai3.com
 +.syrupplod.com
 +.synergy-e.com
 +.delivery.swid.switchads.com
