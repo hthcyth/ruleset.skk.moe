@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Fri, 20 Mar 2026 14:48:45 GMT
+! Last modified: Fri, 20 Mar 2026 17:28:27 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -4795,6 +4795,7 @@
 ||privacy.keep-it-gruen.shop^
 ||sgtm.jkhealthylife.shop^
 ||jassidgrummer.shop^
+||jaildomhexace.shop^
 ||indaminsnodly.shop^
 ||yk.iconfragrance.shop^
 ||huitaintimote.shop^
@@ -5350,6 +5351,7 @@
 ||6rxmj9mltvgc9lcu3lvn43.rest^
 ||4ng9qlkrnb6vu4poen44ox.rest^
 ||4hx95xequ2qnry3pj45ool.rest^
+||xfvmbewrriqqxuwj2kmub.rest^
 ||uc7cyz979xkykenvcw9ql.rest^
 ||rq3l3bhkvkgtoqxermbtf.rest^
 ||mukg44y95xr3u948yflbn.rest^
@@ -5488,6 +5490,7 @@
 ||ffqbl55gkh7qq6.rest^
 ||crhk335rvg9tfi.rest^
 ||c23vizuyykxbqw.rest^
+||b2z7cv7hy4upnz.rest^
 ||9ii2tbqzn1lvll.rest^
 ||8ytg68z2f8mivc.rest^
 ||7j5cgeluommhzl.rest^
@@ -5555,6 +5558,7 @@
 ||larditeephelismomes.qpon^
 ||lantumscalenehurdis.qpon^
 ||isletasquallslinley.qpon^
+||forcepsmappensteele.qpon^
 ||flowedsalweyupstand.qpon^
 ||ferraraspearyperked.qpon^
 ||exemptmoraeaflaxier.qpon^
@@ -5634,6 +5638,7 @@
 ||razeantlikekvass.qpon^
 ||mottykippedsithe.qpon^
 ||memoctettecomvia.qpon^
+||majadallasbaguet.qpon^
 ||hagueseenmashies.qpon^
 ||fugiotaenpennage.qpon^
 ||exlavolsciganged.qpon^
@@ -7192,12 +7197,14 @@
 ||beggercliffed.cyou^
 ||barazapushrod.cyou^
 ||assholeshifty.cyou^
+||antiquavotary.cyou^
 ||anomerlongest.cyou^
 ||animosegoupen.cyou^
 ||anguinekennel.cyou^
 ||andasteknarry.cyou^
 ||amphidnamable.cyou^
 ||akroterdaftar.cyou^
+||afrontkiester.cyou^
 ||abrahamwiddie.cyou^
 ||zenickphytic.cyou^
 ||younkertames.cyou^
@@ -7287,6 +7294,7 @@
 ||ascitanstomp.cyou^
 ||armseyekuman.cyou^
 ||anorthdunkle.cyou^
+||anacarahunts.cyou^
 ||alomaguesser.cyou^
 ||alohasaltoun.cyou^
 ||aleutobelism.cyou^
@@ -7401,6 +7409,7 @@
 ||dessilgeir.cyou^
 ||dandvolary.cyou^
 ||circarooms.cyou^
+||christpaid.cyou^
 ||cebilfares.cyou^
 ||bulimiaour.cyou^
 ||bedaweeexp.cyou^
@@ -14735,6 +14744,7 @@
 ||rliwiqr.icu^
 ||rcguamf.icu^
 ||pwaihoe.icu^
+||pvgcyyh.icu^
 ||otoieku.icu^
 ||onwnomv.icu^
 ||okikwul.icu^
@@ -20535,6 +20545,7 @@
 ||revenuenetworkcpm.com^
 ||revenuecpmnetwork.com^
 ||rf.reussir-franchise.com^
+||restrainfannylimb.com^
 ||respondupdatedebb.com^
 ||resentmentsadflew.com^
 ||repentantsympathy.com^
@@ -24216,6 +24227,7 @@
 ||go-uat.qantaswellbeing.com^
 ||go-dev.qantaswellbeing.com^
 ||go.qantaswellbeing.com^
+||pydulxopajrbwna.com^
 ||fxnygu.puzzlewarehouse.com^
 ||fp.pureonegolfshop.com^
 ||octopus2.puregoldprotein.com^
@@ -30219,6 +30231,7 @@
 ||al.outfitter-lab.com^
 ||gtm.luts.outfilmespack.com^
 ||outdoorthingy.com^
+||ousvdbpyasmal.com^
 ||axp.ourquadcities.com^
 ||gtm.ourgreenstory.com^
 ||ouchvibration.com^
@@ -31040,6 +31053,7 @@
 ||nl.ifuckedyourgf.com^
 ||ar.ifuckedyourgf.com^
 ||server.ieltsbooksell.com^
+||iedeijrbgfvad.com^
 ||app.info.idgenterprise.com^
 ||la.idgenterprise.com^
 ||d.iconlifesaver.com^
@@ -35439,6 +35453,7 @@
 ||ss.hidayahworld.com^
 ||sstats.hickoryfarms.com^
 ||hiaphrilloig.com^
+||hhba03201kdh.com^
 ||yzvpco.hfashionmall.com^
 ||hf5rbejvpwds.com^
 |httpdns-euex-push.heytapmobile.com^
@@ -37425,6 +37440,7 @@
 ||share.wolfspreads.com^
 ||wolfpackbot.com^
 ||3347.wolf-gordon.com^
+||wnwccsuyrll.com^
 ||wnfxdmooydc.com^
 ||wmllfxjjnjq.com^
 ||wmcafnbjivh.com^
@@ -41629,6 +41645,7 @@
 ||blockadsnot.com^
 ||bloc-mining.com^
 ||blissfuldes.com^
+||blirtonethe.com^
 ||blesspizzas.com^
 ||gtm.blenderbros.com^
 ||blendedbird.com^
@@ -42336,6 +42353,7 @@
 ||yto3kavwud.com^
 ||ysvghklega.com^
 ||ysckhgcaqo.com^
+||yscjkhowwo.com^
 ||yry62x1vwl.com^
 ||yraocbieho.com^
 ||yr2spd4ucy.com^
@@ -52725,6 +52743,7 @@
 ||gu4xxpoe9.com^
 ||cxrfns.gu-global.com^
 ||gtrphahmu.com^
+||gtrimmani.com^
 ||gtj1myjla.com^
 ||gtfccewpo.com^
 ||ad.gtbrowser.com^
@@ -53916,6 +53935,7 @@
 ||sst.compass24.com^
 ||marketing.compagnon.com^
 ||insights.compagnon.com^
+||comlquina.com^
 ||saa.comicbook.com^
 ||aa.comicbook.com^
 ||stape.comautovw.com^
@@ -54532,6 +54552,7 @@
 ||mueoh.besynchro.com^
 ||mobile.bespontix.com^
 ||bs.besher-sa.com^
+||bertapert.com^
 ||sst.berleypro.com^
 ||berg-6-82.com^
 ||beqnnobwt.com^
@@ -75144,6 +75165,7 @@
 ||fh1f6i5hzht53zvwq7q7.cfd^
 ||felloesbehornbatfish.cfd^
 ||feazedsalacotthruout.cfd^
+||er9585w5njh5zr41u23o.cfd^
 ||enoughsgyrantgranula.cfd^
 ||elksliphelcoidupbend.cfd^
 ||cugt3bgyv5qcoyq99m7n.cfd^
@@ -75294,6 +75316,7 @@
 ||ijye711o5rry2bnxc.cfd^
 ||humblietucanonife.cfd^
 ||gummoseloupsaitic.cfd^
+||eynebrugeseluvium.cfd^
 ||evejarjoelpetcock.cfd^
 ||endhandsyzygiahen.cfd^
 ||el7jm4u3vxzotune4.cfd^
@@ -75336,6 +75359,7 @@
 ||jeednibbingburry.cfd^
 ||hzzcuyl7ornhjrp4.cfd^
 ||eqgxlpwmxlmb8lbx.cfd^
+||chiefswipercoble.cfd^
 ||blp153cwjepm568x.cfd^
 ||ss.blackfridaylivre.cfd^
 ||83lo5qfpojmy7453.cfd^
@@ -75438,6 +75462,7 @@
 ||lowmostuttered.cfd^
 ||liebogiesabout.cfd^
 ||lackeysmuscids.cfd^
+||l5lhhe1pouki6n.cfd^
 ||judaparevernia.cfd^
 ||j6wbzu8v37qi1h.cfd^
 ||ix6kwoylty4vqt.cfd^
@@ -75476,6 +75501,7 @@
 ||bloomerpotshot.cfd^
 ||bheestyenright.cfd^
 ||besneerdomitic.cfd^
+||besetmetaphxat.cfd^
 ||bebravejazyges.cfd^
 ||bbubjmnxen9zxn.cfd^
 ||baboolsflyblew.cfd^
@@ -75509,6 +75535,7 @@
 ||verrucaauburn.cfd^
 ||velumenbavian.cfd^
 ||veinagedeters.cfd^
+||vacuuahomonid.cfd^
 ||uplooppedante.cfd^
 ||unveilsengram.cfd^
 ||unruedwhoring.cfd^
@@ -75537,6 +75564,7 @@
 ||sculpedarrent.cfd^
 ||scandicmangal.cfd^
 ||saynayfinfoot.cfd^
+||sardanaboxful.cfd^
 ||roostedunturn.cfd^
 ||rooseduncruel.cfd^
 ||riflersfstore.cfd^
@@ -75643,6 +75671,7 @@
 ||timawabusbar.cfd^
 ||termerraches.cfd^
 ||tearersuttin.cfd^
+||tchaicolumna.cfd^
 ||tabandsuerte.cfd^
 ||syrphushalva.cfd^
 ||sudorbabassu.cfd^
@@ -75727,6 +75756,7 @@
 ||axineswelled.cfd^
 ||albifyalltud.cfd^
 ||accorddancer.cfd^
+||zinkghoster.cfd^
 ||warefinicky.cfd^
 ||wagetsmiter.cfd^
 ||visayafacet.cfd^
@@ -75817,6 +75847,7 @@
 ||khuzikisan.cfd^
 ||jovaroosts.cfd^
 ||innsarabit.cfd^
+||hailsdepoh.cfd^
 ||grimmyaffs.cfd^
 ||goransloth.cfd^
 ||foundsmeal.cfd^
@@ -90031,6 +90062,7 @@
 ||metrics.sp0n.io^
 ||link.somm.io^
 ||marketing.soha.io^
+||ssgmanual.snov.io^
 ||sjpf.io^
 ||i.rttd.io^
 ||m.rsvy.io^
@@ -90206,6 +90238,7 @@
 ||gtm.experienceate.in^
 ||ssa.discoveryplus.in^
 ||sa.discoveryplus.in^
+||xujpwawufmce.in^
 ||xcowtuocxolz.in^
 ||xcofupnperuq.in^
 ||analytics.wienerberger.in^
