@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-03-20T05:49:58.098Z
-# Size: 85606
+# Last Updated: 2026-03-20T06:20:54.489Z
+# Size: 85596
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17030,7 +17030,6 @@
 +.px6efer3ox5vpchyllv.rest
 +.71jzhekrmp6m91txf34.rest
 +.m5fmun8rb6ljnwj61n.rest
-+.z6kzuj55uiy3r78lw.rest
 +.ji6zqgrey8pwr57l.rest
 +.f5ww19tv4m4hg2kh.rest
 +.ehrfwp3pt5zy1hz3.rest
@@ -17101,7 +17100,6 @@
 +.toningboogerwoalds.qpon
 +.thyrsusmostechases.qpon
 +.serinrazziasusliks.qpon
-+.sandierlemurtedium.qpon
 +.sairveuseablyberyl.qpon
 +.pyrrhaglazensmatch.qpon
 +.pulsedaughtvulcano.qpon
@@ -35379,7 +35377,6 @@ scx.ddns.net
 +.minutesdistrustuldistrustul.com
 +.miningbreastfeedingbitterly.com
 +.mausoleumtastedparticularly.com
-+.marmaladestrikingcolourless.com
 +.loyaltyexistingacknowledged.com
 +.lifeboatmargaritayourselves.com
 +.lamppostadaptationlassitude.com
@@ -46066,7 +46063,6 @@ otn.samsungcloudcdn.com
 +.unripe-parking.com
 +.unresolvedtame.com
 +.unofficialtwrp.com
-+.unlumpylynette.com
 +.universityslap.com
 +.unfumedvamoses.com
 +.unesmunbrebers.com
@@ -59075,7 +59071,6 @@ gpm.samsungqbe.com
 +.71df446534.com
 +.717d165445.com
 +.7153823bf9.com
-+.7142f2be39.com
 +.70e19ee52e.com
 +.70de8b3bd7.com
 +.d5099e30ec.708ae8f508.com
@@ -59462,7 +59457,6 @@ gpm.samsungqbe.com
 +.1bestgoods.com
 +.1be953d1cc.com
 +.1b87094b09.com
-+.1b79f1c808.com
 +.1b60887cd1.com
 +.796da77408.1b02555400.com
 +.1af24010cb.com
@@ -59654,7 +59648,6 @@ gpm.samsungqbe.com
 +.porn.xxpornvid.com
 +.xtremline.com
 +.xovq5nemr.com
-+.xojijvavx.com
 +.xn-9dbq2a.com
 +.xmtrading.com
 +.xlifebase.com
@@ -61084,7 +61077,6 @@ samsungeurope.eu.qualtrics.com
 +.kygt-tpnr.com
 +.kychajuza.com
 +.kusubooru.com
-+.ksnwudphq.com
 +.kristinee.com
 +.kpt32165s.com
 +.kpd63519s.com
@@ -71623,7 +71615,6 @@ healthdata.hicloud.com
 +.iv3x9cqtgu4h1fhtoehomr578w8t124.cfd
 +.fut2739jozhcpuw621q8omrv5rkkfur.cfd
 +.btg9py8q48cn8y1zf4793ctw85u1vp4.cfd
-+.9ye8pij8u3hufnt96q1h1tb87r52cm1.cfd
 +.6x8rvifv7ehfhoe1qrphxeyh8wk4hkt.cfd
 +.zkvovu2lj97q8o7773gig8wluuttop.cfd
 +.quilblb545nxqho8ku2bukuu3bh4i2.cfd
@@ -72611,7 +72602,6 @@ healthdata.hicloud.com
 +.wacksomewhymeaul.cfd
 +.visantefixgelded.cfd
 +.vg82izl1hr5ntfou.cfd
-+.venafoistoutpipe.cfd
 +.v5jqvhv7gnqgwfiy.cfd
 +.v3g682uyzu6kp1n9.cfd
 +.v16oumz76l2jkuzh.cfd

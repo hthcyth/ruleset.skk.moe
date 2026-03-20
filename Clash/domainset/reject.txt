@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-03-20T05:49:58.098Z
-# Size: 111662
+# Last Updated: 2026-03-20T06:20:54.489Z
+# Size: 111672
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5249,6 +5249,7 @@ bad.third-party.site
 +.3h97pqf61p5wkt15w9.rest
 +.28wbuc4qzpxhquwnoo.rest
 +.21h7irg8zepr5klm1g.rest
++.z6kzuj55uiy3r78lw.rest
 +.ulzkt7ge86imk23hv.rest
 +.qtht4nokue5fjrryh.rest
 +.qmmpoxw2u3vjw5emk.rest
@@ -5417,6 +5418,7 @@ bad.third-party.site
 +.virgedesistnotates.qpon
 +.tripotbroncosshops.qpon
 +.talentsschoolpunic.qpon
++.sandierlemurtedium.qpon
 +.ridgedtrophallohan.qpon
 +.rezoneproggedabies.qpon
 +.rareapasoteunhoned.qpon
@@ -14817,6 +14819,7 @@ smplnltcs.knip.dev
 +.metrics.nutraingredientsasia-awards.com
 +.load.ss.northernlightstouriniceland.com
 +.masonplantsirresponsibility.com
++.marmaladestrikingcolourless.com
 +.marketing.loslagosathotspringsvillage.com
 +.longterminvestmentsolutions.com
 +.ssgtm.lightingnewyork-modernforms.com
@@ -25116,6 +25119,7 @@ display.360totalsecurity.com
 +.stats.unusualtourist.com
 +.untristseaside.com
 +.unsung-comment.com
++.unlumpylynette.com
 +.unloadyourself.com
 +.unlawfuldamage.com
 +.unjustsubmerge.com
@@ -46904,6 +46908,7 @@ simple.cloudsmith.com
 +.732quilulv.com
 +.730fcb332f.com
 +.71lf6z67h6.com
++.7142f2be39.com
 +.70b7d98dec.com
 +.700f312054.com
 +.6zy9yqe1ew.com
@@ -47144,6 +47149,7 @@ simple.cloudsmith.com
 +.000c34b44b.1c3139f0ca.com
 +.1bb4f2018f.com
 +.1b9e934cbd.com
++.1b79f1c808.com
 +.19o8hzj117.com
 +.197c4632ea.com
 +.18mo21a2ji.com
@@ -47388,6 +47394,7 @@ httpdns.yunxindns.com
 +.metrics.xolairhcp.com
 +.t-s.xolairhcp.com
 +.t.xolairhcp.com
++.xojijvavx.com
 +.xnm4x0ali.com
 +.xmlfusion.com
 +.xmgurghmn.com
@@ -50400,6 +50407,7 @@ ttnet-dig.larksuite.com
 +.ktfbuorex.com
 +.gtm.ktenaslaw.com
 +.config.ktbazarbd.com
++.ksnwudphq.com
 +.ksaef6idy.com
 +.biome.krrishibd.com
 +.krmxearc1.com
@@ -72778,6 +72786,7 @@ acs.56.com
 +.lxbjcfm7vn7bymf3lq88tqbkrw15hxx.cfd
 +.hbjxbfxgfo4nhh8z2ybxycwqg2fi5pw.cfd
 +.epwieebi3jim22bjb9r4g1cimvf9w5b.cfd
++.9ye8pij8u3hufnt96q1h1tb87r52cm1.cfd
 +.6rfn9l2zn95rchmu8em1wkzt6z1kqil.cfd
 +.2hw6yi5oz4cxlcfkj96bnublhr26fgh.cfd
 +.u2xo7566z2b228p9lwpbk9f6ogn3ll.cfd
@@ -73077,6 +73086,7 @@ acs.56.com
 +.y9httmmlc8vk5zmg.cfd
 +.wrathalkaidkneel.cfd
 +.vfie3ximi3elx4uw.cfd
++.venafoistoutpipe.cfd
 +.tzarswodgerattus.cfd
 +.trimsbrahminwarb.cfd
 +.sabazabismrevamp.cfd
