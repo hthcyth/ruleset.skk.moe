@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-03-21T15:12:50.338Z
+# Last Updated: 2026-03-21T17:16:47.979Z
 # Size: 85727
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1897,7 +1897,6 @@
 +.lzvrotofovlfn.website
 +.lzulehztkwopr.website
 +.lzbwprvfzvbdx.website
-+.lysszxtzubnby.website
 +.lypslljhdhveu.website
 +.lyitmjrtnnuwj.website
 +.lyerffbunvoud.website
@@ -16180,6 +16179,7 @@
 +.cadswkyoxlcfn.site
 +.bzrbogvpueuwa.site
 +.bziycxyzbtqmf.site
++.byslwvetrxrxv.site
 +.byoxxapgnfhdt.site
 +.byflcjyrqcqvd.site
 +.bycvdrvphznyr.site
@@ -17207,6 +17207,7 @@
 +.mazhabipaildanism.qpon
 +.lutealdossfigbird.qpon
 +.furzednovellyleah.qpon
++.enwoodmurakanaima.qpon
 +.cubiclyteaismclem.qpon
 +.camillaconredodea.qpon
 +.bedralcombunavian.qpon
@@ -18153,7 +18154,6 @@
 +.maniockisang.qpon
 +.maleedolphus.qpon
 +.maintopkurku.qpon
-+.mahdioquassa.qpon
 +.lushestgruis.qpon
 +.lurksfoiling.qpon
 +.luggedunhelm.qpon
@@ -21286,7 +21286,6 @@
 +.rondestivalnutrice.cyou
 +.remnantmoodymislit.cyou
 +.rechurnpipagestump.cyou
-+.rackmanjoukscuteys.cyou
 +.pretirebaleenguans.cyou
 +.polluxingrainaulae.cyou
 +.pipeagemowhaflorid.cyou
@@ -47282,7 +47281,6 @@ otn.samsungcloudcdn.com
 +.globalinnocent.com
 +.glassesoftruth.com
 +.gl0a7loeki02do.com
-+.gjmbsnphditjso.com
 +.givethemiracle.com
 +.givenscarfhump.com
 +.github-scanner.com
@@ -50171,6 +50169,7 @@ otn.samsungcloudcdn.com
 +.beanstalkdata.com
 +.beadpenetrate.com
 +.bclogin-check.com
++.bboqomqqvefnu.com
 +.refer.batesfootwear.com
 +.basic-article.com
 +.refer.barnandwillow.com
@@ -50702,6 +50701,7 @@ otn.samsungcloudcdn.com
 +.trafficadbar.com
 +.traffic-gold.com
 +.tradingmusty.com
++.tradewinning.com
 +.traderviet88.com
 +.ads.traderonline.com
 +.trackmysales.com
