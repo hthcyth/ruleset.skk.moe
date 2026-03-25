@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-03-25T05:58:55.256Z
-# Size: 111557
+# Last Updated: 2026-03-25T08:54:57.374Z
+# Size: 111584
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -274,6 +274,7 @@
 +.ueelifzelnygx.website
 +.udtzkoeogqufb.website
 +.udplgiotjursc.website
++.udophtkooyzew.website
 +.udfkrokaielka.website
 +.ubvupyixsnkwr.website
 +.uaxpwkfrlplxb.website
@@ -359,6 +360,7 @@
 +.qmqftdljsqqit.website
 +.qmehfwepmdwnj.website
 +.qlusrztqgxqfw.website
++.qllivyfbfttlw.website
 +.qkrxetsjnfkms.website
 +.qiyywlruwtfga.website
 +.qgmsqysuzocem.website
@@ -548,6 +550,7 @@
 +.ieucnfzhxeedn.website
 +.ieliryzgkzlam.website
 +.iawznafqfghkm.website
++.iaqnnsytsjkbu.website
 +.hzlswdkrcutie.website
 +.hzbbvxkmxzvld.website
 +.hwuqyjgmgptkd.website
@@ -1618,6 +1621,7 @@ analytics.newgenre.studio
 +.dbmgikwoijnhu.online
 +.dawonfjvwjcaj.online
 +.daobaalzioctx.online
++.czbuwhojatzyx.online
 +.cyutuwsoxyjju.online
 +.cydqtotvxtemd.online
 +.cyaijllypnzgl.online
@@ -2508,6 +2512,7 @@ crsoptimizer.conversionrate.store
 +.sfzeqzazjmowe.space
 +.sfcnprnmkvdlh.space
 +.sbeaujefrgued.space
++.satndtcocoxlv.space
 +.sarwiqwjkwbgd.space
 +.sanywnnlhmual.space
 +.rzbbqovsrrugf.space
@@ -3875,6 +3880,7 @@ ssp1.kfadx.tech
 +.ntswohvxfjvez.site
 +.nrxmbbhpevxji.site
 +.nrdffrswjouwt.site
++.noryxujuqcdwo.site
 +.nlklabpbcecnk.site
 +.nlarqgyehwhbl.site
 +.nkrrhlqnqiehx.site
@@ -4034,6 +4040,7 @@ ssp1.kfadx.tech
 +.hfdqmmjkagyps.site
 +.heyptsfbxntii.site
 +.hewotwzpqdugo.site
++.haxaddznsyrpn.site
 +.haqwfanzmxcrm.site
 +.hahuxjnpasaob.site
 +.gzsbcirpmakvd.site
@@ -4138,6 +4145,7 @@ ssp1.kfadx.tech
 +.cxgznmgoawvwj.site
 +.cwtjduacwhhtj.site
 +.cwrlsjkvjdgff.site
++.cwfdfeeypwbwq.site
 +.ctwihnfnjypom.site
 +.cthubqevokfwi.site
 +.csfisihvtyobt.site
@@ -4193,6 +4201,7 @@ ssp1.kfadx.tech
 +.bhivpvsbhskzv.site
 +.bfhrwqaroikoo.site
 +.bduwesnxbmmjq.site
++.bcucrphyjuisx.site
 +.bcswwwzqophyk.site
 +.bcsfpwmjulcxw.site
 +.aztizumgcjnwa.site
@@ -4752,6 +4761,7 @@ bad.third-party.site
 +.poxescasina.shop
 +.poduranbaja.shop
 +.ss.plantcandii.shop
++.petriewoofy.shop
 +.rrx.outletmalls.shop
 +.oceaniayang.shop
 +.ss.nutrientify.shop
@@ -5056,6 +5066,7 @@ bad.third-party.site
 +.gwhmbuloo85cjtkzpojlvq3pup.rest
 +.gnq5tfc75pkop61u5gv3i3r71n.rest
 +.53refmx8xjbxgh4kq117rvc6w5.rest
++.523kvw9tuecfmt763lp87jiixj.rest
 +.4gjroqglmcembmmfjbiv36thpu.rest
 +.3ibqrcbuimvxm7buqzq3m5vnob.rest
 +.ytou5h2z7fj1xlnck58i4beih.rest
@@ -5295,6 +5306,7 @@ bad.third-party.site
 +.eggaronanistdocents.qpon
 +.dorsalaworrymaroons.qpon
 +.dipnoicurdlyannulli.qpon
++.culchesresizerazole.qpon
 +.chervilkellegsairve.qpon
 +.chemicsfakedintaria.qpon
 +.cannerybariawamuses.qpon
@@ -5461,6 +5473,7 @@ bad.third-party.site
 +.hunnianfoetors.qpon
 +.hexereijelloid.qpon
 +.gyrinidgurjara.qpon
++.grummelunsolve.qpon
 +.godlilyfoxtrot.qpon
 +.gobbleseyebalm.qpon
 +.fortiesperfuse.qpon
@@ -5468,6 +5481,7 @@ bad.third-party.site
 +.facebowbaloney.qpon
 +.expremelatigos.qpon
 +.exposerexedent.qpon
++.exoticsberaked.qpon
 +.dovekiepotenty.qpon
 +.dnieperrollmop.qpon
 +.depthenmettles.qpon
@@ -5537,6 +5551,7 @@ bad.third-party.site
 +.peasantferned.qpon
 +.ouroubfrolics.qpon
 +.nutantdorking.qpon
++.nickedmetered.qpon
 +.mutuantskills.qpon
 +.moiresvelated.qpon
 +.misurageylies.qpon
@@ -5658,6 +5673,7 @@ bad.third-party.site
 +.pigginjnanas.qpon
 +.pavidonstage.qpon
 +.panelhexagyn.qpon
++.outrovelemon.qpon
 +.outbarparecy.qpon
 +.oldestpanton.qpon
 +.odorateseers.qpon
@@ -6619,6 +6635,7 @@ nmbr.info
 +.istokerejoltillust.cyou
 +.hickishunbuskinkle.cyou
 +.hemopodkirningyutu.cyou
++.hartaleraserssitup.cyou
 +.goonunjudgeoverbet.cyou
 +.glorebistortopiism.cyou
 +.gaucyvigilsepheboi.cyou
@@ -6751,6 +6768,7 @@ nmbr.info
 +.mediansshiplet.cyou
 +.loosishcolauxe.cyou
 +.longwaycrooned.cyou
++.logcocknoshing.cyou
 +.lignoneveridic.cyou
 +.latriasgirella.cyou
 +.lampreyrawhide.cyou
@@ -7123,6 +7141,7 @@ nmbr.info
 +.unshowyoc.cyou
 +.unreindpt.cyou
 +.trayskora.cyou
++.tinglerms.cyou
 +.stp.tiket100h.cyou
 +.stoorybag.cyou
 +.sertumfat.cyou
@@ -22903,6 +22922,7 @@ display.360totalsecurity.com
 +.servertracking.rudroenterprise.com
 +.rtg.rubiconredirect.com
 +.rtfsmrrvcmsoswm.com
++.rsacvqvyougxwei.com
 +.rqhnhxvjbulwywh.com
 +.rt.routineguidehub.com
 +.roommateskinner.com
@@ -36200,6 +36220,7 @@ in.vipliangmei.com
 +.vainanalyst.com
 +.stape.v77strategy.com
 +.uwtewvalgil.com
++.utzimatzbld.com
 +.utihriethlv.com
 +.app.uticacomets.com
 +.go.ustruckbody.com
@@ -40777,6 +40798,7 @@ stats.adityathebe.com
 +.yh823ogu6b.com
 +.ygx2myq993.com
 +.yghalathio.com
++.yfsjivxuye.com
 +.yfmwnkd1ti.com
 +.ans.yesnetwork.com
 +.an.yesnetwork.com
@@ -72583,6 +72605,7 @@ acs.56.com
 +.c83eyb3l7v3u892cchc9b5rc691bf4om9txvrx.cfd
 +.b51zi8k55mmo5wq6qkpmbwyjt8xfmxogt2r3y.cfd
 +.l34muby3gzqxtju6mtf1bq4efp8x2rqetnpv.cfd
++.6ip2l99m6kj3ut4f3v18c28fwiqcvvgofx7r.cfd
 +.nvp3xtvupk4i5m34yvvpmhrv7bwgzbkry1q.cfd
 +.kwgrgoym9byexb7v8h7o8282npywwv4yrcw.cfd
 +.9kvzfhj4bg5v79vpo1ycevgpplwomuhfq14.cfd
@@ -73138,6 +73161,7 @@ acs.56.com
 +.nairobiramesh.cfd
 +.nahaneskirret.cfd
 +.mutuelamastia.cfd
++.moulageairbag.cfd
 +.moppetsprayer.cfd
 +.mindinggreund.cfd
 +.miltosstifles.cfd
@@ -73417,8 +73441,10 @@ acs.56.com
 +.pupsbarolo.cfd
 +.pugareeapa.cfd
 +.promptflip.cfd
++.potasholeo.cfd
 +.pigablepsy.cfd
 +.netamenage.cfd
++.nablusloyd.cfd
 +.myelinehas.cfd
 +.musomuscle.cfd
 +.morolevees.cfd
@@ -87436,6 +87462,7 @@ umami.rss3.io
 +.ozrozsxp.in
 +.owhpalol.in
 +.onmovwpu.in
++.olmdapoj.in
 +.ohwamfhc.in
 +.odhcuttu.in
 +.obwhpycr.in

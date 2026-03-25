@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-03-25T05:58:55.256Z
-# Size: 84331
+# Last Updated: 2026-03-25T08:54:57.374Z
+# Size: 84352
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -676,8 +676,10 @@
 +.voronbboujyhx.website
 +.voeqzuuvnwpad.website
 +.vocrojjwugeno.website
++.vnoeytklzthqu.website
 +.vndrosaaypjvu.website
 +.vnazcqacydaqt.website
++.vmvdnxrkephwg.website
 +.vmsdxtbgqozxp.website
 +.vmenlgdowysab.website
 +.vmecbdkpvugpj.website
@@ -1338,7 +1340,6 @@
 +.qlstwuvnfjpry.website
 +.qlpwodpqwzqcc.website
 +.qloekmmsuwjlq.website
-+.qllivyfbfttlw.website
 +.qljytcmigkfxc.website
 +.qlcmnszrrzdsp.website
 +.qlbztvyadkhwk.website
@@ -3229,6 +3230,7 @@
 +.dcgfjjawtjxte.website
 +.dcclynlhknwff.website
 +.dcazkddmpuwkw.website
++.dbzwgmwxnqiiy.website
 +.dbzaiectsuekw.website
 +.dbutzisvfpkvg.website
 +.dbuipcqfkpvqq.website
@@ -4608,6 +4610,7 @@
 +.tphnsoragelbe.online
 +.tpeqxpmhejppx.online
 +.tpazitwbrpwwt.online
++.tpaytpewgktro.online
 +.touoijshjbkef.online
 +.toprxsvgqejvq.online
 +.tollhhrozhmaj.online
@@ -5256,6 +5259,7 @@
 +.pbgsrbcpxgimb.online
 +.pbgcxdfyfgjlt.online
 +.pbestrdinkbff.online
++.pbdiasnrimgbo.online
 +.pbcdxcodlooba.online
 +.patkoxyukkoaf.online
 +.paslrdcizpgdw.online
@@ -5877,6 +5881,7 @@
 +.krpoxpezhuqqx.online
 +.krfqlrxvmoyrj.online
 +.krffawlfeuqcc.online
++.kqwvqvapfvajp.online
 +.kqntarwfonstf.online
 +.kqmrvtdwnnitd.online
 +.kqgohxbrqclyo.online
@@ -6114,6 +6119,7 @@
 +.izktfetimdfrj.online
 +.izfbtqfedzzob.online
 +.izekxwljsjboe.online
++.izcjyeehxaesm.online
 +.iyjuhyvsixkkx.online
 +.iyjfideltmcwl.online
 +.iyctzmxbgrsmj.online
@@ -6249,6 +6255,7 @@
 +.hyldaxiyvidxg.online
 +.hyjxuvsklboyu.online
 +.hyihyfouxfsjb.online
++.hycpllawmosiu.online
 +.hycgnirrgbeuq.online
 +.hyalyyeiegmak.online
 +.hyaccgrjkbsoz.online
@@ -9155,6 +9162,7 @@
 +.xbvlryxpygptr.space
 +.xbscldcctgbzu.space
 +.xbfoaninfgolq.space
++.xbfduvykhxaee.space
 +.xbeaspolzddtc.space
 +.xaofdyhfyowfw.space
 +.xajgsjguxriuc.space
@@ -10393,6 +10401,7 @@
 +.nwgzumywimtrj.space
 +.nwfwvmtldikqs.space
 +.nvxbjvswajhug.space
++.nvwmvpmsaiuer.space
 +.nvuhclsrukrve.space
 +.nvlksszdvekse.space
 +.nvftthegodwtl.space
@@ -11870,6 +11879,7 @@
 +.cwsbrxarjnaav.space
 +.cwmgdpescuqtc.space
 +.cwknyzwwvbqze.space
++.cwicybzyryttv.space
 +.cwchjisabnnmx.space
 +.cwawlwdjdtxem.space
 +.cvwgltvuviniv.space
@@ -13482,6 +13492,7 @@
 +.uxktflcscvkja.site
 +.uxibgyftvdzyr.site
 +.uxffgxaqqkiha.site
++.uwxeefniupmth.site
 +.uwsmamsebynub.site
 +.uwrhqzftllepi.site
 +.uwppdmkzyykwk.site
@@ -17063,6 +17074,7 @@
 +.topcoatinstils.qpon
 +.tobymanlobbied.qpon
 +.thurniaprimula.qpon
++.thrivessolands.qpon
 +.terningfishery.qpon
 +.tentersforesay.qpon
 +.tchapangrinter.qpon
@@ -20674,6 +20686,7 @@
 +.conksfrundelrodster.cyou
 +.clankjillinganguloa.cyou
 +.chiningafrightaband.cyou
++.carochesindlecupula.cyou
 +.biddiesieringtowzie.cyou
 +.beclogcabbiesazande.cyou
 +.azidosovertyattaleh.cyou
@@ -21362,6 +21375,7 @@
 +.scoleyexergue.cyou
 +.schmitziodous.cyou
 +.scatterlusian.cyou
++.sambarverruca.cyou
 +.salpianpungey.cyou
 +.saligoteatche.cyou
 +.sakersfullest.cyou
@@ -38874,6 +38888,7 @@ fkp.samsungcloudsolution.com
 +.floridamuralcompany.com
 +.flinchundoneunequal.com
 +.flamingsharknursery.com
++.fizzyacerbitymellow.com
 +.content.firstinterstatebank.com
 +.firmlypokingtasting.com
 +.finisheddisdainsmug.com
@@ -47439,6 +47454,7 @@ otn.samsungcloudcdn.com
 +.techneparlous.com
 +.techbytemedia.com
 +.tearingtastes.com
++.tcfjjiomnshlh.com
 +.tautingtortes.com
 +.tattered-sale.com
 +.tatersbilobed.com
@@ -56216,6 +56232,7 @@ gpm.samsungqbe.com
 +.layoutfill.com
 +.refer.laylasleep.com
 +.layculture.com
++.lavishboot.com
 +.laugh-mail.com
 +.latergoody.com
 +.sur.laprovence.com
@@ -60466,6 +60483,7 @@ samsungeurope.eu.qualtrics.com
 +.holdstory.com
 +.hobowhema.com
 +.hn-mizuki.com
++.hmnwhjxly.com
 +.hkl4h1trk.com
 +.hitstatus.com
 +.counter.hitslinks.com
@@ -61351,6 +61369,7 @@ samsungeurope.eu.qualtrics.com
 +.oascentral.aircanada.com
 +.csservice.aircanada.com
 +.aim4media.com
++.aickw1c4w.com
 +.aiai-talk.com
 +.ahashpool.com
 +.aglobally.com
@@ -71233,6 +71252,7 @@ healthdata.hicloud.com
 +.qnq1ikqiq1g3ytwiph5.cfd
 +.pv7e29ttex3j413iy2j.cfd
 +.pphueejbqppjnfxe9pi.cfd
++.porionguangoupdives.cfd
 +.poddedsozolicdepass.cfd
 +.platodebruinshowish.cfd
 +.pitterdiamantschorl.cfd
@@ -79627,6 +79647,7 @@ ns11.whois.co.kr
 +.r.yabancidizi.in
 +.site24x7rum.in
 +.tracking.mailtracker.in
++.dinxicobdja.in
 +.ndl1pp1-a-fixed.sancharnet.in
 +.www2.gorillavid.in
 +.coinsecure.in
