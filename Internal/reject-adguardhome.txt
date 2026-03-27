@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Fri, 27 Mar 2026 06:11:10 GMT
+! Last modified: Fri, 27 Mar 2026 07:31:45 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -657,6 +657,7 @@
 ||ecjhgxpqqpuzu.website^
 ||ebqpsrgocqwgi.website^
 ||eainbkjxvwppi.website^
+||eaeggnobdqfjl.website^
 ||dzqbnamcqanak.website^
 ||dtyscezlefppc.website^
 ||dsezpouqscaas.website^
@@ -1554,6 +1555,7 @@
 ||gzdsnsgboqrbs.online^
 ||gwcqypynajuel.online^
 ||gvsbtyngvsmoe.online^
+||guyvztdqncxgu.online^
 ||gtnnwxkwcfhpe.online^
 ||godxggzahvvdz.online^
 ||goagpwzflvpnx.online^
@@ -2862,6 +2864,7 @@
 ||idqxcpofspalj.space^
 ||iaxqpnkyqysam.space^
 ||hzjkceqkncovy.space^
+||hzboheifztyoj.space^
 ||hytufdrcsrpbc.space^
 ||hypptujyuaxyz.space^
 ||hxkrtvwprsuut.space^
@@ -4375,6 +4378,7 @@
 ||aztciboopxfhe.site^
 ||azixsxtxoptba.site^
 ||aximuccsesgop.site^
+||avhbbdkhtxvxb.site^
 ||avcpygaawhfyo.site^
 ||auztzwjhpjwwm.site^
 ||auavqudmkawhg.site^
@@ -4645,6 +4649,7 @@
 ||nuagistempasma.shop^
 ||nacrinemezcals.shop^
 ||mummiedoldness.shop^
+||mayingslessees.shop^
 ||lupulinrushlit.shop^
 ||layout08062025.shop^
 ||kamasintriglid.shop^
@@ -5536,6 +5541,7 @@
 ||orateshettywashway.qpon^
 ||offalsfetusduffers.qpon^
 ||nibungaminsinbowed.qpon^
+||mohairnahumpinfall.qpon^
 ||lattinstwixtebbman.qpon^
 ||lachesbegnawairway.qpon^
 ||gryphcoprahsskibob.qpon^
@@ -5965,6 +5971,7 @@
 ||armetspropos.qpon^
 ||appropercase.qpon^
 ||acronbowfins.qpon^
+||zeindrawcut.qpon^
 ||zantcantino.qpon^
 ||yernvaccary.qpon^
 ||wynrisisthm.qpon^
@@ -6036,6 +6043,7 @@
 ||djinnxenons.qpon^
 ||derriesenew.qpon^
 ||deboitephil.qpon^
+||daubalgeria.qpon^
 ||cuonconfect.qpon^
 ||cuirieobols.qpon^
 ||cruorsaxils.qpon^
@@ -7158,6 +7166,7 @@
 ||ocheredetudes.cyou^
 ||netballtampin.cyou^
 ||nappesjauntie.cyou^
+||miscookcuorin.cyou^
 ||meiosescambia.cyou^
 ||meaturegnamma.cyou^
 ||matzothsouled.cyou^
@@ -7192,6 +7201,7 @@
 ||feddansmacuta.cyou^
 ||fattersagamen.cyou^
 ||fangaswigless.cyou^
+||evokesphlegmy.cyou^
 ||entrapspilpai.cyou^
 ||dorbugfolding.cyou^
 ||dogeysphyllis.cyou^
@@ -7362,6 +7372,7 @@
 ||puntszarnec.cyou^
 ||poucefitche.cyou^
 ||popovermosk.cyou^
+||pogydistant.cyou^
 ||piaffedsuds.cyou^
 ||pampadaukin.cyou^
 ||optimeagast.cyou^
@@ -9326,6 +9337,7 @@
 ||track.adcreatorai.pro^
 ||toughbirth.pro^
 ||super-head.pro^
+||somberwork.pro^
 ||shabbymark.pro^
 ||safeoffers.pro^
 ||rustyleave.pro^
@@ -42693,6 +42705,7 @@
 ||sgtm.vetroelite.com^
 ||vespymedia.com^
 ||api.veshvistos.com^
+||versuswall.com^
 ||verseballs.com^
 ||deck.versafloor.com^
 ||vernaellac.com^
@@ -57962,6 +57975,7 @@
 ||sgtm.licensel.com^
 ||tr.news.libranoo.com^
 ||tr.info.libranoo.com^
+||lhivyrbd.com^
 ||lh1dki82.com^
 ||gtm.lgrworld.com^
 ||ivdtc.lgbeauty.com^
@@ -75577,6 +75591,7 @@
 ||canuckdustour.cfd^
 ||campleaggrege.cfd^
 ||camataduelers.cfd^
+||burialspoises.cfd^
 ||bulgurdacoits.cfd^
 ||bowessfustily.cfd^
 ||boutellkaryon.cfd^
@@ -75856,6 +75871,7 @@
 ||hatedtutu.cfd^
 ||hanseatry.cfd^
 ||fixesrink.cfd^
+||fepedants.cfd^
 ||dtaleyard.cfd^
 ||bromidike.cfd^
 ||ambarieam.cfd^
