@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-29T06:10:13.881Z
-# Size: 4420
+# Last Updated: 2026-03-29T15:25:54.446Z
+# Size: 4421
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -829,6 +829,7 @@ s3.arkjp.net
 +.img3.acsta.net
 +.img2.acsta.net
 +.img1.acsta.net
++.zobj.net
 cdn.ywxi.net
 static.wwto.net
 fonts.sony.net
