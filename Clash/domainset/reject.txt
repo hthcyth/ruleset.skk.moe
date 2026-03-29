@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-03-29T15:25:53.693Z
-# Size: 112295
+# Last Updated: 2026-03-29T17:20:51.291Z
+# Size: 112316
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1290,6 +1290,7 @@ analytics.newgenre.studio
 +.robrquvpjczvx.online
 +.rntcycudcyzdu.online
 +.rnistrczswefs.online
++.rmddsanqhfkvm.online
 +.rlmtpmsnojdaa.online
 +.rlaphlyamiont.online
 +.rkzuvrnnstkwv.online
@@ -2488,6 +2489,7 @@ crsoptimizer.conversionrate.store
 +.wyemijjnbkrol.space
 +.wxwjidcqfsakq.space
 +.wwxeyxdyyitzl.space
++.wvnleufytihlj.space
 +.wujrfwhsdtobv.space
 +.wufzkqqzdvcxn.space
 +.wtyhyzvsxlpeb.space
@@ -3866,6 +3868,7 @@ ssp1.kfadx.tech
 +.uwxeefniupmth.site
 +.uwqtngztblbpt.site
 +.uvvhimqchjcvq.site
++.uvkqyxjdiswkt.site
 +.uucmclhuqdszr.site
 +.usxhqgokbxuya.site
 +.uswibinjursxc.site
@@ -3968,6 +3971,7 @@ ssp1.kfadx.tech
 +.rgrtuqhubwrwr.site
 +.rgfawwiupzdho.site
 +.rbzwxevjjkjjc.site
++.rbemdvyhqskji.site
 +.raukfsubdwcvy.site
 +.rapbyxaipylsx.site
 +.qzucaozhhgofn.site
@@ -4032,6 +4036,7 @@ ssp1.kfadx.tech
 +.peptqeaezrlnx.site
 +.pejindzozgwfp.site
 +.pedjnohpdrthi.site
++.pbfhahctctuoa.site
 +.paqxspfbapsai.site
 +.ozocetnjaqrml.site
 +.oyovpsltjgvzd.site
@@ -4185,6 +4190,7 @@ ssp1.kfadx.tech
 +.jiehsiazrrkql.site
 +.jhrwxnyphhelu.site
 +.jevybnmrhousp.site
++.jdraskbpyqgpi.site
 +.jbqmjdbxsxlyj.site
 +.jaskhuczzexoh.site
 +.izvryzfwgldrg.site
@@ -4346,6 +4352,7 @@ ssp1.kfadx.tech
 +.dqenixgshnwtg.site
 +.doqjpepzkqwim.site
 +.dobrdkkyxohlk.site
++.dobbomqaokbpw.site
 +.dmxtdltgndcco.site
 +.dmmyamvrjsbws.site
 +.dljyvdvntzbyp.site
@@ -4434,6 +4441,7 @@ ssp1.kfadx.tech
 +.asohiejixgvry.site
 +.asjitqwjvodhr.site
 +.aqatudxyzqtij.site
++.anxegytdedafg.site
 +.amzfepdudlyvb.site
 +.amczbhfcbhewz.site
 +.alsbxyrahfjia.site
@@ -5492,6 +5500,7 @@ bad.third-party.site
 +.8l9z3lqg5kq3g4.rest
 +.876i7innill48m.rest
 +.7j5cgeluommhzl.rest
++.6yzfub9hhkgq2v.rest
 +.6ntgi1f48lqzzv.rest
 +.6n826tunbch234.rest
 +.5qgclqb1eqljql.rest
@@ -5613,6 +5622,7 @@ bad.third-party.site
 +.offalsfetusduffers.qpon
 +.nibungaminsinbowed.qpon
 +.mohairnahumpinfall.qpon
++.messmandibsquixote.qpon
 +.lattinstwixtebbman.qpon
 +.lachesbegnawairway.qpon
 +.kinkhabcoanditched.qpon
@@ -6992,6 +7002,7 @@ nmbr.info
 +.goonunjudgeoverbet.cyou
 +.glorebistortopiism.cyou
 +.gaucyvigilsepheboi.cyou
++.embusoctanemagbote.cyou
 +.dullmilacredolmans.cyou
 +.doatscreakyantique.cyou
 +.dhutimouthssabbeka.cyou
@@ -9079,6 +9090,7 @@ grs.dbankcloud.asia
 +.honorable-responsibility.pro
 +.incomplete-competition.pro
 +.infatuated-difference.pro
++.imperturbable-article.pro
 +.gigantic-satisfaction.pro
 +.multicoloredfamiliar.pro
 +.unfinished-accident.pro
@@ -9296,6 +9308,7 @@ collect.foresightnews.pro
 +.fluffy-soft.pro
 +.sdg.desihamster.pro
 +.gtm.coachlaunch.pro
++.bronzeentry.pro
 +.brandnewapp.pro
 +.attachedguy.pro
 +.info.appliedtech.pro
@@ -23658,6 +23671,7 @@ display.360totalsecurity.com
 +.bxumze.norwichbulletin.com
 +.sst.northlandtackle.com
 +.trck.ins.northcascadeins.com
++.nonwliiylqbaqbm.com
 +.nondescriptnote.com
 +.nonchalantnerve.com
 +.cdn.nomorecopyright.com
@@ -24455,6 +24469,7 @@ display.360totalsecurity.com
 +.qfcxpa.dreamcloudsleep.com
 +.etiaf.dreamcloudsleep.com
 +.sst.drdaniaschumann.com
++.drcfrutkjmpkngw.com
 +.gtm.drbrunomarttins.com
 +.server.draelenaparedes.com
 +.drabimprovement.com
@@ -25540,6 +25555,7 @@ display.360totalsecurity.com
 +.data.theastraengine.com
 +.servidorstp.thaisdiasnutri.com
 +.load.ss.thaicreditbank.com
++.tezrjnkejzdgsx.com
 +.cloud.texasmotorplex.com
 +.app.texaslonghorns.com
 +.t.texaslonghorns.com
@@ -31011,6 +31027,7 @@ qm.redbullracing.com
 +.bl-test.curatedplanet.com
 +.cuppedajitter.com
 +.sstats.cupidandgrace.com
++.cunealwolvish.com
 +.aqwvwn.cultfurniture.com
 +.load.sst.culliganwater.com
 +.track.cufflinkdeals.com
@@ -31329,6 +31346,7 @@ qm.redbullracing.com
 +.caiqbjsmnpkkq.com
 +.api.caiovisagista.com
 +.cahootdisodic.com
++.cagjcsdkvyzmj.com
 +.cafflekiloton.com
 +.sst.cafebeaubourg.com
 +.byaevamgvikqr.com
@@ -40750,6 +40768,7 @@ log.byteoversea.com
 +.basehardily.com
 +.dfqub.baseconnect.com
 +.impzl.barrioqueen.com
++.baronsamvat.com
 +.barnagemere.com
 +.load.sst.bare-ritual.com
 +.tracking.barcodesinc.com
@@ -52443,6 +52462,7 @@ v2.fm.n.duokanbox.com
 +.dial4gwyn.com
 +.dhorzivnn.com
 +.dhimphits.com
++.dhdpplvtr.com
 +.dhaaralzz.com
 +.dgxjxeuzm.com
 +.dftoutiao.com
@@ -73573,6 +73593,7 @@ acs.56.com
 +.3n2nc158v6u5hv6o.cfd
 +.2yrlx4lem82wqehq.cfd
 +.2nqmub5hzuxm4prm.cfd
++.zj2jwmrkvu5ow8q.cfd
 +.y97elc3ikr6o3tv.cfd
 +.x9rq4it3l31e7f3.cfd
 +.x337cc1f9rxk9ff.cfd
