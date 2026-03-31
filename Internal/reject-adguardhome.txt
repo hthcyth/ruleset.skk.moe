@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Tue, 31 Mar 2026 15:36:27 GMT
+! Last modified: Tue, 31 Mar 2026 17:47:03 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -183,6 +183,7 @@
 ||xsnmgbrywodvb.website^
 ||xrvsxpthlyyrv.website^
 ||xrbcmxuzmyfzj.website^
+||xqteessqgcens.website^
 ||xqsvsdvvypnij.website^
 ||xqejaoqdglrez.website^
 ||xnyzkqckonmva.website^
@@ -2512,6 +2513,7 @@
 ||zjhczxkqxqclr.space^
 ||zhhmkiottyxgn.space^
 ||zgbtifcsvpxqx.space^
+||zepepdomeqmco.space^
 ||zcxarfuvraqid.space^
 ||zbweattfkwerz.space^
 ||zbbmothculony.space^
@@ -3200,6 +3202,7 @@
 ||atsnisdwrubdu.space^
 ||aroqfqxiacdmw.space^
 ||arllzfdoodulm.space^
+||aplpmvfnyoxji.space^
 ||aokrbjfklqvsd.space^
 ||aodhnoaolqxkm.space^
 ||alzhnrkblrrwo.space^
@@ -3918,6 +3921,7 @@
 ||ykwluibrttvrk.site^
 ||ykfyamwmuycgq.site^
 ||yjtwkkyczcyut.site^
+||yjtojoboqokts.site^
 ||yibxfyylqxswj.site^
 ||yfylpmiujwozc.site^
 ||yfglcrhmdemev.site^
@@ -4143,6 +4147,7 @@
 ||quxgijjahdogb.site^
 ||quodvmljwdqec.site^
 ||qudbmtsluirkx.site^
+||qubhjnodheizn.site^
 ||qttkyxopotgkk.site^
 ||qsvgwekmkvkri.site^
 ||qrrergjizojhi.site^
@@ -4295,6 +4300,7 @@
 ||kqtpgtgspdgir.site^
 ||kppuqocsvzmye.site^
 ||koszyxwufcqro.site^
+||knwjmjujhadoo.site^
 ||kngkkiwfqqgho.site^
 ||kmxhkhyjwjaho.site^
 ||kmvkkwwlluwgx.site^
@@ -4515,6 +4521,7 @@
 ||dgdcpypunnrnm.site^
 ||dfwdwzlxegphn.site^
 ||dcldfxcchfzem.site^
+||dccprpiscatnk.site^
 ||dbhyflmvdngif.site^
 ||daoxwkgrfjayp.site^
 ||czuwprnlhxpdh.site^
@@ -4531,6 +4538,7 @@
 ||gtm.criativadecor.site^
 ||cqmgoxqbhsmgg.site^
 ||stape.codigosagrado.site^
+||cnzgraidqkkhw.site^
 ||cnqsmekgjmgrp.site^
 ||cnlzzznvobbly.site^
 ||cnhjvigwedhfc.site^
@@ -5696,6 +5704,7 @@
 ||bc1bzef6bp4c1u3.rest^
 ||b8r18wkrbh4fmwu.rest^
 ||9whl7qrqjnkyvli.rest^
+||8c67cu652j6jhej.rest^
 ||86gx67fyk372pl9.rest^
 ||7tg9vr9pjloq5nl.rest^
 ||5ghymyiqz6pqrv8.rest^
@@ -5778,6 +5787,7 @@
 ||gammercuriosobrashes.qpon^
 ||finspothainedtersion.qpon^
 ||etacismbaroccoteachy.qpon^
+||dreideldaseinatamans.qpon^
 ||craniumsulpharaggedy.qpon^
 ||covensarcheolthermos.qpon^
 ||collidecodbankinlays.qpon^
@@ -6313,6 +6323,7 @@
 ||depotfrigage.qpon^
 ||darninggease.qpon^
 ||cremeskomtok.qpon^
+||corsakbenami.qpon^
 ||corkirouteat.qpon^
 ||conningpaced.qpon^
 ||collunpulsar.qpon^
@@ -6425,6 +6436,7 @@
 ||bitospettle.qpon^
 ||berrycraven.qpon^
 ||beflumreown.qpon^
+||arlengpepsi.qpon^
 ||apairdeking.qpon^
 ||anoasscards.qpon^
 ||achewattmen.qpon^
@@ -7649,6 +7661,7 @@
 ||brulotszonoid.cyou^
 ||bowlegsbuzzes.cyou^
 ||bourockbeleve.cyou^
+||biflexpopshop.cyou^
 ||bidcockworrit.cyou^
 ||belyingmystic.cyou^
 ||belliesflakes.cyou^
@@ -9738,6 +9751,7 @@
 ||courageousarm.pro^
 ||burdensometoe.pro^
 ||tr.buenasofertas.pro^
+||attractivemap.pro^
 ||ashamedleague.pro^
 ||ajar-emphasis.pro^
 ||worst-parent.pro^
@@ -13352,7 +13366,7 @@
 ||ptaukaufa.net^
 ||psilaurgi.net^
 ||protopool.net^
-||collector-pxdojv695v.protechts.net^
+||protechts.net^
 ||arabs.pornarabi.net^
 ||pool2mine.net^
 ||a8.polyglots.net^
@@ -23602,6 +23616,7 @@
 ||sm.delltechnologies.com^
 ||m.delltechnologies.com^
 ||deliverytraffico.com^
+||degeneratebasket.com^
 ||definitivedinner.com^
 ||decryptionjunior.com^
 ||s2sdm.decadencemansion.com^
@@ -26456,6 +26471,7 @@
 ||affiliate-robot.com^
 ||affectionparson.com^
 ||aeffe3nhrua5hua.com^
+||adyxnckaseupgmk.com^
 ||load.tr.adviser-digital.com^
 ||advertising-cdn.com^
 ||solutions.advantageauburn.com^
@@ -31900,6 +31916,7 @@
 ||log.hiapkdownload.com^
 ||hgswduqgjwndu.com^
 ||capi.hffoodservice.com^
+||herpetunwelde.com^
 ||heroicfuneral.com^
 ||sst.hermesbitcoin.com^
 ||umuiz.heritagecares.com^
@@ -43397,6 +43414,7 @@
 ||yghalathio.com^
 ||yfsjivxuye.com^
 ||yfmwnkd1ti.com^
+||yewsgooney.com^
 ||ans.yesnetwork.com^
 ||an.yesnetwork.com^
 ||sgtm.yesinglese.com^
@@ -50037,6 +50055,7 @@
 ||yama1hove.com^
 ||a8.yakumatch.com^
 ||yakhaknog.com^
+||yakdudism.com^
 ||y7pcgacfn.com^
 ||y6oiuyphb.com^
 ||y63eay93i.com^
@@ -57911,6 +57930,7 @@
 ||rwtraqur.com^
 ||biminibliss.rwbimini.com^
 ||rvkhazel.com^
+||rvbnqojv.com^
 ||rustpool.com^
 ||ruranews.com^
 ||sffyrc.ruparupa.com^
@@ -76527,7 +76547,7 @@
 ||f6xxn9717b1z41ipq7whw4ee.cfd^
 ||euj1nuwx4233c38cvk19ukle.cfd^
 ||e47jflbrzhwgj7wilnei5e3m.cfd^
-||9w9xutxo7.9nmv95m7jl2wx31kk79p7648.cfd^
+||9nmv95m7jl2wx31kk79p7648.cfd^
 ||9nizbbyf774vm14cp4e797zk.cfd^
 ||6epv2lqboiwp3b5zrgcm39zj.cfd^
 ||47b8n24uo7welwcbxt4pjg29.cfd^
@@ -76582,6 +76602,7 @@
 ||gheleemscratchdemises.cfd^
 ||g3jzt6wknmzcxyoifb3bm.cfd^
 ||fatwoodhumidlymalpais.cfd^
+||effusesboilingreveres.cfd^
 ||dishfulstichosinstals.cfd^
 ||cuckingrepackssyruper.cfd^
 ||complintetaniachuroya.cfd^
@@ -105017,6 +105038,7 @@
 ||event.raise3d.cn^
 ||ent1.qunchua.cn^
 ||qiuxl11.cn^
+||c.qiandao.cn^
 ||vv1.pyhfxdm.cn^
 ||optimix.cn^
 ||click.oneplus.cn^
