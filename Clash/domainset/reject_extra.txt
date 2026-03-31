@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-03-31T14:30:34.097Z
-# Size: 85914
+# Last Updated: 2026-03-31T15:36:17.062Z
+# Size: 85923
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -406,6 +406,7 @@
 +.xqxplqzqywvcj.website
 +.xqvsufkeuiwde.website
 +.xqvozdrhmwurw.website
++.xqteessqgcens.website
 +.xqqmcnphocpku.website
 +.xqjasiudpfzsi.website
 +.xqfpgwarzkecj.website
@@ -1969,7 +1970,6 @@
 +.mjvkkfolyddcq.website
 +.mjtgcahsahclt.website
 +.mjskjzhiyhvua.website
-+.mjljqbyepiucu.website
 +.mjkjatrhfvjsd.website
 +.mjiillaizjckm.website
 +.mjapvwzhaozgl.website
@@ -9153,6 +9153,7 @@
 +.zfjhmufunivir.space
 +.zfcbuhkbpmbwy.space
 +.zfabhttuwxtxk.space
++.zepepdomeqmco.space
 +.zekneylmdrfud.space
 +.zekagaibrryns.space
 +.zeiyazzlblmvj.space
@@ -12452,6 +12453,7 @@
 +.aqpmljbvacbpi.space
 +.aqoifpujbbptd.space
 +.aqcolwxuzyjyg.space
++.aplpmvfnyoxji.space
 +.apkyeimuizlax.space
 +.apcdoxiqxiote.space
 +.apajzmkpiuahv.space
@@ -13444,6 +13446,7 @@
 +.ykaryzbamfvme.site
 +.yjyjyzprctiln.site
 +.yjwojvccdukua.site
++.yjtojoboqokts.site
 +.yjpqcnhnpaghu.site
 +.yjnymcgboozbn.site
 +.yivtsnnmutzkb.site
@@ -14315,7 +14318,6 @@
 +.rsybnnascsenq.site
 +.rsldpvanbvkwg.site
 +.rskdtqfdolvzb.site
-+.rsgkkrjhvlnvs.site
 +.rsgdtlpixkack.site
 +.rsbnhruphyuxn.site
 +.rrtrivkvstpci.site
@@ -16417,6 +16419,7 @@
 +.dcouckxtwhjjx.site
 +.dcleuevkxvzmr.site
 +.dcgjhzsxktgly.site
++.dccprpiscatnk.site
 +.dcavixmtxjxra.site
 +.dcauvflvzwnex.site
 +.dcapugcaiirxs.site
@@ -16487,6 +16490,7 @@
 +.couijnmkgjdim.site
 +.cokygncbagaxr.site
 +.coazdbbxocvgi.site
++.cnzgraidqkkhw.site
 +.cnwetuaniiaal.site
 +.cntqatdtgsnsu.site
 +.cntbrzonyxnzv.site
@@ -17566,6 +17570,7 @@
 +.gidyeacowyardgiggles.qpon
 +.garettaaerosolcedron.qpon
 +.dubiousthrepeunworld.qpon
++.dreideldaseinatamans.qpon
 +.debtfulignitedtetany.qpon
 +.creolindistalgnarled.qpon
 +.bestridabendssiccing.qpon
@@ -18692,6 +18697,7 @@
 +.covertstokes.qpon
 +.councilopahs.qpon
 +.coshingcyano.qpon
++.corsakbenami.qpon
 +.corplgavages.qpon
 +.corincatwood.qpon
 +.coochesvifda.qpon
@@ -18971,6 +18977,7 @@
 +.bematameeds.qpon
 +.attomyjelib.qpon
 +.atnahmiasma.qpon
++.arlengpepsi.qpon
 +.yikegirlie.qpon
 +.xystculdee.qpon
 +.xxirchauff.qpon
@@ -22407,6 +22414,7 @@
 +.cheniersamvat.cyou
 +.cheeryrussets.cyou
 +.cheerioiodide.cyou
++.biflexpopshop.cyou
 +.bashedbourout.cyou
 +.jh.arangasoxhlet.cyou
 +.amphidnamable.cyou
@@ -38645,7 +38653,6 @@ fkp.samsungcloudsolution.com
 +.pioneercomparatively.com
 +.pickignoranceattacks.com
 +.phosphatevotinglydia.com
-+.phoneboothliningmany.com
 +.philadelphiasporting.com
 +.phieudangkyquetthevn.com
 +.pheasantbottomfulfil.com
@@ -43949,6 +43956,7 @@ fkp.samsungcloudsolution.com
 +.deliriousglowing.com
 +.delectable-earth.com
 +.degeneratesevere.com
++.degeneratebasket.com
 +.definitionensign.com
 +.definitelypicked.com
 +.definedlaunching.com
@@ -63698,6 +63706,7 @@ samsungeurope.eu.qualtrics.com
 +.s2sterra.com
 +.s2rjtiki.com
 +.ryapalta.com
++.rvbnqojv.com
 +.ruttwind.com
 +.ruthsize.com
 +.rustpool.com
@@ -85949,4 +85958,3 @@ t.email1.samsung.ca
 +.weknow.ac
 +.say.ac
 ################## EOF ##################
-
