@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-04-01T04:19:40.248Z
-# Size: 114273
+# Last Updated: 2026-04-01T06:25:08.517Z
+# Size: 114289
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -733,6 +733,7 @@
 +.cqibwlthohukl.website
 +.cpriperzpvhgb.website
 +.cnmwoxnyxyzhs.website
++.cndkpvokgivtq.website
 +.cmyiiypwacdah.website
 +.cmiupqlouwnnw.website
 +.cjncpwlbxitpf.website
@@ -1296,6 +1297,7 @@ analytics.newgenre.studio
 +.rkezuvqtxgltl.online
 +.riehurqwgtdey.online
 +.rhhahzqblcxem.online
++.rfpunvguhctkq.online
 +.rdtaxudspwvqp.online
 +.rdfeesvsxhsyn.online
 +.rdedkdhyuyghl.online
@@ -1542,6 +1544,7 @@ analytics.newgenre.studio
 +.iuhnexrsvsjup.online
 +.itdqkhyodfqzo.online
 +.iszvalttjohra.online
++.isiyxikfxjqwh.online
 +.irhoghutbowqb.online
 +.iqyhvzvpshtva.online
 +.iqdgdswynmgrp.online
@@ -2495,6 +2498,7 @@ crsoptimizer.conversionrate.store
 +.wpncrmusaeuzl.space
 +.wmdhfkjtzqfzi.space
 +.wktjygrwvobcr.space
++.whnlerwojyzhi.space
 +.whglicfodltns.space
 +.wgzgarcunfpjq.space
 +.wgdotbbdbfktr.space
@@ -2739,6 +2743,7 @@ crsoptimizer.conversionrate.store
 +.nbqeoezniykhm.space
 +.nbfhxoldzzydm.space
 +.navxhefspincz.space
++.nabjewthoknxr.space
 +.mzdlrglckxifp.space
 +.mytsyoisjverr.space
 +.myrawgkxfswvx.space
@@ -2801,6 +2806,7 @@ crsoptimizer.conversionrate.store
 +.lblscpmfxuzqq.space
 +.lapdmotmslqps.space
 +.laczozkekwlje.space
++.kytrzcenkcvyo.space
 +.kynbmbodyhtwv.space
 +.kykpybijmerta.space
 +.kyggpktctzozd.space
@@ -3042,6 +3048,7 @@ crsoptimizer.conversionrate.store
 +.cdn.carloseduardo.space
 +.caehtveorphwc.space
 +.bxwkpbuhmqhpa.space
++.bxtubfjlscnxw.space
 +.btjktaksttymf.space
 +.btexaqwamudic.space
 +.bssoyxhfjzcgz.space
@@ -4170,6 +4177,7 @@ ssp1.kfadx.tech
 +.iqenxmmktuhrz.site
 +.iqdbxlkqbpppb.site
 +.ipouucslkqmra.site
++.ionlgwcpbxhjf.site
 +.intrustedzone.site
 +.intibwyoigjpf.site
 +.inmasrbazpndi.site
@@ -4380,6 +4388,7 @@ ssp1.kfadx.tech
 +.bcucrphyjuisx.site
 +.bcswwwzqophyk.site
 +.bcsfpwmjulcxw.site
++.bbofqpmhexpli.site
 +.aztizumgcjnwa.site
 +.azsabhgfbofxr.site
 +.aximuccsesgop.site
@@ -5493,6 +5502,7 @@ bad.third-party.site
 +.vrklxvwbv8vo6g.rest
 +.v1fw3lix9pj13j.rest
 +.ru81hl72iy6fwp.rest
++.p2r25bl4vlylij.rest
 +.nv28lejfvb4gqi.rest
 +.nqbmw3uwik6plx.rest
 +.lel27q9eleftuv.rest
@@ -26378,6 +26388,7 @@ display.360totalsecurity.com
 +.punicinbumelia.com
 +.pulseadnetwork.com
 +.psgtabmbcygivc.com
++.psfpbjceyspfju.com
 +.provisionskiss.com
 +.metrics.providence-tax.com
 +.propertypotato.com
@@ -42140,6 +42151,7 @@ hd.xiaojukeji.com
 +.ablink.mail.winwinsave.com
 +.pjlvhk.winkbottle.com
 +.mfwmud.winelivery.com
++.windbeetle.com
 +.ads.win555capi.com
 +.sgtm.willkatika.com
 +.data.transactional.williamsf1.com
@@ -46357,6 +46369,7 @@ pub.elevate14r.com
 +.ebtszrkwfc.com
 +.eboobuv0rk.com
 +.ebhaliragd.com
++.ebftaryatw.com
 +.xpleza.eatsmarter.com
 +.tr.welcome.easyvoyage.com
 +.oyssqe.easyvoyage.com
@@ -74424,6 +74437,7 @@ acs.56.com
 +.stealavauntoutlets.cfd
 +.slangshavanabesant.cfd
 +.rotarywincesanight.cfd
++.rickshathemesmiley.cfd
 +.qt1wp3urm14lzbr8ni.cfd
 +.porgorustlewanning.cfd
 +.parersfacilymalism.cfd
@@ -74440,6 +74454,7 @@ acs.56.com
 +.lataniathegnmacabi.cfd
 +.kronenroovehistrio.cfd
 +.kaesukuleledirects.cfd
++.jge8xq1yhwefzq1fo4.cfd
 +.hurtleswippendouse.cfd
 +.hairerelessadallis.cfd
 +.h6cfcqn5tecq7pkfgu.cfd
@@ -74507,6 +74522,7 @@ acs.56.com
 +.el7jm4u3vxzotune4.cfd
 +.e1hvx2v7yrf86e3lm.cfd
 +.curvleaglancemaja.cfd
++.covetenoursevicts.cfd
 +.cleukruddiedcoles.cfd
 +.chutingstuddyapis.cfd
 +.bussercuyathanked.cfd

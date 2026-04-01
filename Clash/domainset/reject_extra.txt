@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-04-01T04:19:40.248Z
-# Size: 86188
+# Last Updated: 2026-04-01T06:25:08.517Z
+# Size: 86184
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10894,7 +10894,6 @@
 +.naoofdiujjiec.space
 +.naocpuzajwlgt.space
 +.namgkrjvqxfil.space
-+.nabjewthoknxr.space
 +.mzopojcgmvpkd.space
 +.mzidndvsmszfx.space
 +.myvycofcbwhlk.space
@@ -11178,7 +11177,6 @@
 +.kzdlxsnbeeugv.space
 +.kywjcuqtqspca.space
 +.kyvaeggfnvefc.space
-+.kytrzcenkcvyo.space
 +.kyotundoyxdky.space
 +.kynmzfvclexzs.space
 +.kymertbbdefgn.space
@@ -17654,7 +17652,6 @@
 +.r9hcxcwfz5qc9i.rest
 +.qv9uiu4nn3i446.rest
 +.pqkzxkrujc2t38.rest
-+.p2r25bl4vlylij.rest
 +.o2twz9nc23t4pr.rest
 +.nj2nb3c1q5goi5.rest
 +.k8qwzwx6wth8hk.rest
@@ -18280,6 +18277,7 @@
 +.mashakhesione.qpon
 +.ac.martinurology.qpon
 +.marcotprovene.qpon
++.mannanbroeboe.qpon
 +.manidaesyrtis.qpon
 +.manganareseau.qpon
 +.mandorewaxhaw.qpon
@@ -22826,6 +22824,7 @@
 +.inshootmaars.cyou
 +.inkosprebble.cyou
 +.inducsmeddum.cyou
++.inculkarrent.cyou
 +.imbuteresaws.cyou
 +.ideatessnipy.cyou
 +.icebonejembe.cyou
@@ -22843,6 +22842,7 @@
 +.guidedfalser.cyou
 +.guiacdourest.cyou
 +.guanayphilic.cyou
++.grunionnitos.cyou
 +.gridderdiaka.cyou
 +.gossardkolas.cyou
 +.goldesthazer.cyou
@@ -58429,7 +58429,6 @@ gpm.samsungqbe.com
 +.ec26bf2191.com
 +.ec-concier.com
 +.ebookdiana.com
-+.ebftaryatw.com
 +.8291702486.ebdb7bb99d.com
 +.secureir.ebaystatic.com
 +.ebaybanner.com
@@ -66101,7 +66100,6 @@ lockersamsungs8.r.xoxknct.com
 +.afs.wearemp.com
 +.en.btcprofit.we-trck.com
 +.wayfaic.com
-+.collector.wawlabs.com
 +.watch33.com
 +.wataads.com
 +.waredot.com
@@ -73140,7 +73138,6 @@ healthdata.hicloud.com
 +.kgt4825r359uuo7m4w.cfd
 +.ju1y4o73qzn54qu1gu.cfd
 +.jtq11p728xo57jqf9e.cfd
-+.jge8xq1yhwefzq1fo4.cfd
 +.ixodicfurrowsmsink.cfd
 +.i3rxe7eticnm4ktb5l.cfd
 +.hv8c74z8pfy35fgnk9.cfd
@@ -73314,7 +73311,6 @@ healthdata.hicloud.com
 +.cvye4w5jbolht3m6k.cfd
 +.cuproseatmabaraka.cfd
 +.cuonlasingquiller.cfd
-+.covetenoursevicts.cfd
 +.correohattiegises.cfd
 +.copisttikisstrive.cfd
 +.chymiapieterzoeas.cfd

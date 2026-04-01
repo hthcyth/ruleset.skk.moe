@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Wed, 01 Apr 2026 04:19:50 GMT
+! Last modified: Wed, 01 Apr 2026 06:25:18 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -726,6 +726,7 @@
 ||cqibwlthohukl.website^
 ||cpriperzpvhgb.website^
 ||cnmwoxnyxyzhs.website^
+||cndkpvokgivtq.website^
 ||cmyiiypwacdah.website^
 ||cmiupqlouwnnw.website^
 ||cjncpwlbxitpf.website^
@@ -1319,6 +1320,7 @@
 ||rkezuvqtxgltl.online^
 ||riehurqwgtdey.online^
 ||rhhahzqblcxem.online^
+||rfpunvguhctkq.online^
 ||rdtaxudspwvqp.online^
 ||rdfeesvsxhsyn.online^
 ||rdedkdhyuyghl.online^
@@ -1565,6 +1567,7 @@
 ||iuhnexrsvsjup.online^
 ||itdqkhyodfqzo.online^
 ||iszvalttjohra.online^
+||isiyxikfxjqwh.online^
 ||irhoghutbowqb.online^
 ||iqyhvzvpshtva.online^
 ||iqdgdswynmgrp.online^
@@ -2559,6 +2562,7 @@
 ||wpncrmusaeuzl.space^
 ||wmdhfkjtzqfzi.space^
 ||wktjygrwvobcr.space^
+||whnlerwojyzhi.space^
 ||whglicfodltns.space^
 ||wgzgarcunfpjq.space^
 ||wgdotbbdbfktr.space^
@@ -2803,6 +2807,7 @@
 ||nbqeoezniykhm.space^
 ||nbfhxoldzzydm.space^
 ||navxhefspincz.space^
+||nabjewthoknxr.space^
 ||mzdlrglckxifp.space^
 ||mytsyoisjverr.space^
 ||myrawgkxfswvx.space^
@@ -2865,6 +2870,7 @@
 ||lblscpmfxuzqq.space^
 ||lapdmotmslqps.space^
 ||laczozkekwlje.space^
+||kytrzcenkcvyo.space^
 ||kynbmbodyhtwv.space^
 ||kykpybijmerta.space^
 ||kyggpktctzozd.space^
@@ -3106,6 +3112,7 @@
 ||cdn.carloseduardo.space^
 ||caehtveorphwc.space^
 ||bxwkpbuhmqhpa.space^
+||bxtubfjlscnxw.space^
 ||btjktaksttymf.space^
 ||btexaqwamudic.space^
 ||bssoyxhfjzcgz.space^
@@ -4306,6 +4313,7 @@
 ||iqenxmmktuhrz.site^
 ||iqdbxlkqbpppb.site^
 ||ipouucslkqmra.site^
+||ionlgwcpbxhjf.site^
 ||intrustedzone.site^
 ||intibwyoigjpf.site^
 ||inmasrbazpndi.site^
@@ -4516,6 +4524,7 @@
 ||bcucrphyjuisx.site^
 ||bcswwwzqophyk.site^
 ||bcsfpwmjulcxw.site^
+||bbofqpmhexpli.site^
 ||aztizumgcjnwa.site^
 ||azsabhgfbofxr.site^
 ||aximuccsesgop.site^
@@ -5643,6 +5652,7 @@
 ||vrklxvwbv8vo6g.rest^
 ||v1fw3lix9pj13j.rest^
 ||ru81hl72iy6fwp.rest^
+||p2r25bl4vlylij.rest^
 ||nv28lejfvb4gqi.rest^
 ||nqbmw3uwik6plx.rest^
 ||lel27q9eleftuv.rest^
@@ -27385,6 +27395,7 @@
 ||punicinbumelia.com^
 ||pulseadnetwork.com^
 ||psgtabmbcygivc.com^
+||psfpbjceyspfju.com^
 ||provisionskiss.com^
 ||metrics.providence-tax.com^
 ||propertypotato.com^
@@ -43485,6 +43496,7 @@
 ||ablink.mail.winwinsave.com^
 ||pjlvhk.winkbottle.com^
 ||mfwmud.winelivery.com^
+||windbeetle.com^
 ||ads.win555capi.com^
 ||sgtm.willkatika.com^
 ||data.transactional.williamsf1.com^
@@ -47785,6 +47797,7 @@
 ||ebtszrkwfc.com^
 ||eboobuv0rk.com^
 ||ebhaliragd.com^
+||ebftaryatw.com^
 ||xpleza.eatsmarter.com^
 ||tr.welcome.easyvoyage.com^
 ||oyssqe.easyvoyage.com^
@@ -76611,6 +76624,7 @@
 ||stealavauntoutlets.cfd^
 ||slangshavanabesant.cfd^
 ||rotarywincesanight.cfd^
+||rickshathemesmiley.cfd^
 ||qt1wp3urm14lzbr8ni.cfd^
 ||porgorustlewanning.cfd^
 ||parersfacilymalism.cfd^
@@ -76627,6 +76641,7 @@
 ||lataniathegnmacabi.cfd^
 ||kronenroovehistrio.cfd^
 ||kaesukuleledirects.cfd^
+||jge8xq1yhwefzq1fo4.cfd^
 ||hurtleswippendouse.cfd^
 ||hairerelessadallis.cfd^
 ||h6cfcqn5tecq7pkfgu.cfd^
@@ -76694,6 +76709,7 @@
 ||el7jm4u3vxzotune4.cfd^
 ||e1hvx2v7yrf86e3lm.cfd^
 ||curvleaglancemaja.cfd^
+||covetenoursevicts.cfd^
 ||cleukruddiedcoles.cfd^
 ||chutingstuddyapis.cfd^
 ||bussercuyathanked.cfd^
