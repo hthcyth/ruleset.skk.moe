@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-04-03T14:07:48.143Z
-# Size: 86679
+# Last Updated: 2026-04-03T17:24:41.957Z
+# Size: 86692
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18351,6 +18351,7 @@
 +.trineswashrag.qpon
 +.traineewaited.qpon
 +.touzledsauces.qpon
++.tmhlarncollyr.qpon
 +.titershontous.qpon
 +.tipulaeremian.qpon
 +.tingledthraws.qpon
@@ -47292,6 +47293,7 @@ otn.samsungcloudcdn.com
 +.qualitymortify.com
 +.qledwrstokolid.com
 +.qhwxkopseffxyg.com
++.qfijbaptmbxxnb.com
 +.1.www.putridgadzooks.com
 +.putproudlyhowl.com
 +.puteldestebook.com
@@ -63676,6 +63678,7 @@ samsungeurope.eu.qualtrics.com
 +.wtoredir.com
 +.wrmcfyzl.com
 +.refer.wrangler.com
++.wps-cnzh.com
 +.wpgroups.com
 +.trmff.wpengine.com
 +.wormgush.com
@@ -68551,6 +68554,7 @@ healthdata.hicloud.com
 +.3profit.com
 +.3dstats.com
 +.360iris.com
++.360cncn.com
 +.33lotte.com
 +.2xclock.com
 +.2miners.com
@@ -81935,7 +81939,6 @@ ns11.whois.co.kr
 +.tracking.mailtracker.in
 +.kkexmioxrlp.in
 +.adwozwzigog.in
-+.xfolivosro.in
 +.ndl1pp1-a-fixed.sancharnet.in
 +.hcitukntuo.in
 +.www2.gorillavid.in
@@ -85474,6 +85477,7 @@ s.w-x.co
 +.rdm.91yunma.cn
 +.m.91heima.cn
 +.666pool.cn
++.360edge.cn
 +.og.zyzjpx.cn
 +.zmdesf.cn
 +.uupool.cn
@@ -85547,6 +85551,7 @@ s.w-x.co
 +.pdns.nudt.edu.cn
 +.sea.net.edu.cn
 +.hhbs.hhu.edu.cn
++.ggooglle-chrrome.com.cn
 +.zc1.maillist-manage.com.cn
 +.stratus.campaign-image.com.cn
 +.zc1.campaign-view.com.cn
@@ -85575,6 +85580,13 @@ s.w-x.co
 +.ns.cac.com.cn
 +.softdl4.360.cn
 +.downali.game.uc.cn
++.zh-googlle-chrome.hl.cn
++.google-chrrome-zh.hl.cn
++.chrome-gooogle-zh.hl.cn
++.cnzh-google-apps.hl.cn
++.app-google-zh.hl.cn
++.zhcn-googele.hl.cn
++.chrome-hl.hl.cn
 +.mail.issas.ac.cn
 +.mail.siom.ac.cn
 +.ns.nint.ac.cn
@@ -85796,6 +85808,7 @@ s.w-x.co
 +.downloadfile.cc
 +.cryptoknight.cc
 +.bedaslonejul.cc
++.baiduwangpan.cc
 +.webshopping.cc
 +.trustwallct.cc
 +.telexorgiam.cc
