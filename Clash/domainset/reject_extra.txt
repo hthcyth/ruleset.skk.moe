@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-04-12T16:08:03.662Z
-# Size: 84531
+# Last Updated: 2026-04-12T17:26:03.099Z
+# Size: 84534
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -6959,6 +6959,7 @@
 +.cmdrogqpxvxtr.online
 +.cljfpthmkqkby.online
 +.clickverifier.online
++.clecfcwjdgsoq.online
 +.ckhtqypqrwuqv.online
 +.ckdufrqjyeivh.online
 +.cjriqheskyceo.online
@@ -17193,6 +17194,7 @@
 +.debtfulignitedtetany.qpon
 +.creolindistalgnarled.qpon
 +.bestridabendssiccing.qpon
++.bamaliphoodingromana.qpon
 +.atticalgodshipthumps.qpon
 +.yemselregillswollen.qpon
 +.whollyencodedmyopes.qpon
@@ -55869,6 +55871,7 @@ gpm.samsungqbe.com
 +.oklflhpugx.com
 +.ohtctjiuow.com
 +.ohmydating.com
++.ogjpymglbw.com
 +.ofppahlkiz.com
 +.ofgogoatan.com
 +.offerserve.com

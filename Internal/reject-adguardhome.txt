@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Sun, 12 Apr 2026 16:08:13 GMT
+! Last modified: Sun, 12 Apr 2026 17:26:13 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -195,6 +195,7 @@
 ||wqyaxfgqohurs.website^
 ||wotenvrlbybjm.website^
 ||wobqizsvitxmk.website^
+||wnquetpwdloqw.website^
 ||wmkyrnbejgyku.website^
 ||wkxvopwtaykla.website^
 ||wkwigtqydvqin.website^
@@ -260,6 +261,7 @@
 ||uabvpjljbbaqa.website^
 ||tzqgwxfgruelq.website^
 ||tyuwgkergjvbn.website^
+||tyhujptmlcfqn.website^
 ||twflbqhesejhz.website^
 ||twcwzjckuuubq.website^
 ||tvewiifmavniu.website^
@@ -344,6 +346,7 @@
 ||qzephhmtiuvux.website^
 ||qwodmzryxhtss.website^
 ||qvmgixbgzyyyq.website^
+||qvmeiliozljro.website^
 ||qvctxkmwiwywr.website^
 ||quuawwsijimlf.website^
 ||qsynwrllhpeoh.website^
@@ -1593,6 +1596,7 @@
 ||cceotabubmypm.online^
 ||cbtqapthvayla.online^
 ||qrx.castleexpress.online^
+||cansojdrsopsz.online^
 ||bwyukdjoovifu.online^
 ||bwporpxafcyms.online^
 ||bwojlhkqvgvxe.online^
@@ -3666,6 +3670,7 @@
 ||wbxjdmjpxgtrv.site^
 ||wbfkyjvspddnd.site^
 ||wauymtjmufunv.site^
+||vyekpcuojaujx.site^
 ||vxetjbsjganly.site^
 ||vwohegzvjaosz.site^
 ||vvwrwrzrsuqug.site^
@@ -3808,6 +3813,7 @@
 ||qogcteumntijn.site^
 ||qmwagedxalzxz.site^
 ||qmaixqtbcbapj.site^
+||qlmckclcoxfpf.site^
 ||qivzzjzsutlwk.site^
 ||qhxrexamnxunp.site^
 ||qhpfjwfxlyzzq.site^
@@ -5278,6 +5284,7 @@
 ||xfvmbewrriqqxuwj2kmub.rest^
 ||ulclrixprwu1xe6huw57g.rest^
 ||uc7cyz979xkykenvcw9ql.rest^
+||rho3ihhlouug529z8eneu.rest^
 ||k68y9fb6o7rvuzzvbmh2c.rest^
 ||gon82rugo4gojp48gcrrf.rest^
 ||gbqc1ci5qfe9ow2y33y5k.rest^
@@ -30898,6 +30905,7 @@
 ||b20p6lt350nt.app.polymersearch.com^
 ||polyfillcache.com^
 ||polluxnetwork.com^
+||pollenunmoved.com^
 ||politicsdryer.com^
 ||polishedfolly.com^
 ||polished-hook.com^
@@ -37670,6 +37678,7 @@
 ||strack.chadorbilash.com^
 ||cgqkxzxipzxm.com^
 ||telemetry.cfraresearch.com^
+||cfdkxhkhrhbo.com^
 ||ceryldelaine.com^
 ||analytics.certifriedit.com^
 ||centumshough.com^
@@ -77635,6 +77644,7 @@
 ||lottoairampocacked.cfd^
 ||lataniathegnmacabi.cfd^
 ||kronenroovehistrio.cfd^
+||kri45879oupj5plpcl.cfd^
 ||kaesukuleledirects.cfd^
 ||jge8xq1yhwefzq1fo4.cfd^
 ||injurestuteerhyton.cfd^
@@ -77758,6 +77768,7 @@
 ||trimsbrahminwarb.cfd^
 ||sweerdozehemlock.cfd^
 ||scattyyrbkagrito.cfd^
+||samarasyisneezed.cfd^
 ||rifercotwistnpfx.cfd^
 ||rerubcakejawless.cfd^
 ||rebiaoharepanace.cfd^
