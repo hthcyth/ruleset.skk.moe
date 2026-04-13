@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 13 Apr 2026 08:21:12 GMT
+! Last modified: Mon, 13 Apr 2026 08:58:14 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -2801,6 +2801,7 @@
 ||dnzxncwmglrwy.space^
 ||dkzjrdfefnqav.space^
 ||dkpvbyvscxraq.space^
+||dkflbsrscmjnl.space^
 ||dkepsueazpneu.space^
 ||djpgftebohnay.space^
 ||dizhenmeehipj.space^
@@ -2879,6 +2880,7 @@
 ||adehhurslxxmh.space^
 ||acxcfztcvheoa.space^
 ||acibgrucxulrh.space^
+||achaslnoqzspt.space^
 ||aayjfvkskxkez.space^
 ||aavnnupfepbgp.space^
 ||aahcnrijhuwhq.space^
@@ -4145,6 +4147,7 @@
 ||cgjrkjtkqvshb.site^
 ||cgiaiptgdasfi.site^
 ||cfsfonftvkcny.site^
+||cfbzstmlazlrg.site^
 ||cebjrqvyienhy.site^
 ||cbjtlyejnhreg.site^
 ||cagaieedrohdv.site^
@@ -5509,6 +5512,7 @@
 ||crustaspeiseflatbed.qpon^
 ||chemicsfakedintaria.qpon^
 ||cannerybariawamuses.qpon^
+||bulbousswoopskempts.qpon^
 ||brawnednonegotipper.qpon^
 ||borersmuskegsrufous.qpon^
 ||bookmankyloecupania.qpon^
@@ -32731,6 +32735,7 @@
 ||hoverfly.cyberbytesinc.com^
 ||sjrog.cyberbackpack.com^
 ||cwyvketbgfonh.com^
+||cvyvktlakzgbp.com^
 ||cvwdbkfudfbmk.com^
 ||jrhrn.cushionsource.com^
 ||load.rjtpnsou.curviifashion.com^
@@ -57391,6 +57396,7 @@
 ||wpushsdk.com^
 ||wpushorg.com^
 ||server.wponetap.com^
+||wpihnwkr.com^
 ||wpadmngr.com^
 |ftpcontent.worldnow.com^
 ||gtm.workmize.com^
