@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 13 Apr 2026 06:27:09 GMT
+! Last modified: Mon, 13 Apr 2026 08:21:12 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -166,6 +166,7 @@
 ||xwxfocmndqvar.website^
 ||xvyaytgqrduup.website^
 ||xvrrjdgregofk.website^
+||xvhdggbxfjauj.website^
 ||xuxtzbczsxcrs.website^
 ||xulixnionnxrs.website^
 ||xsnmgbrywodvb.website^
@@ -1098,6 +1099,7 @@
 ||vxwjlushskniy.online^
 ||vwkzkoonyslrp.online^
 ||vumkwueikvlxr.online^
+||vtgfeyimfufyq.online^
 ||vsznyyhrbezhg.online^
 ||vrftribpxdzcs.online^
 ||vpbqnbodeknuk.online^
@@ -2288,6 +2290,7 @@
 ||zqvhsojbqezvi.space^
 ||zqfzcqtzrxgar.space^
 ||zpozugqvazdyc.space^
+||zndtdgimaaued.space^
 ||zmrpqxljwgwuq.space^
 ||zmgwgfaesqwgn.space^
 ||zlhtzcopykuvb.space^
@@ -2390,6 +2393,7 @@
 ||vhusmxxldxxjc.space^
 ||vhbbubfytrjht.space^
 ||vgexzbbuusqxf.space^
+||vfelxgfxodljv.space^
 ||vbyqjvmxjmsng.space^
 ||vbvwcpowriyyo.space^
 ||vacgsfoidbuub.space^
@@ -2414,6 +2418,7 @@
 ||ubqnvqrjaxlso.space^
 ||ubgvqakukavmm.space^
 ||uazhaixvzaggm.space^
+||uauhosrlqmbkx.space^
 ||tzpyzqycmyoev.space^
 ||tyijgwwnaaxwc.space^
 ||txjgnbljkekft.space^
@@ -3651,6 +3656,7 @@
 ||vnnvrstpewqyb.site^
 ||vlauqfbnfigdk.site^
 ||vkwwwpvuxgipy.site^
+||vjkgjdtcucpiy.site^
 ||vjhdqmupqsugi.site^
 ||vjehbytyxzsom.site^
 ||vipcbtwvdabun.site^
@@ -4830,6 +4836,7 @@
 ||seisdisrump.shop^
 ||sassakmeach.shop^
 ||sapeleteeny.shop^
+||sangarsooty.shop^
 ||tr.roxx-online.shop^
 ||rimpledshop.shop^
 ||quilledacca.shop^
@@ -5304,6 +5311,7 @@
 ||4uzknty9cgzfitho8.rest^
 ||2eh8e4l34ze9ivrzv.rest^
 ||1ko78e2bf3nnvzvz5.rest^
+||yclwk98mzke6rk4p.rest^
 ||y929nyeuj9pjo648.rest^
 ||y3cqmr3o4mwxvk8v.rest^
 ||v5tn47klpye5t6oq.rest^
@@ -5840,6 +5848,7 @@
 ||ouroubfrolics.qpon^
 ||onagrareabuse.qpon^
 ||ohioancalanid.qpon^
+||octopeddefoam.qpon^
 ||nickedmetered.qpon^
 ||neptuneoorali.qpon^
 ||natalschagoma.qpon^
@@ -6136,6 +6145,7 @@
 ||gnawlouvres.qpon^
 ||gloutsbaign.qpon^
 ||gishscorpii.qpon^
+||ginshavance.qpon^
 ||giglotpilis.qpon^
 ||gibedarcing.qpon^
 ||geyserprawn.qpon^
@@ -6183,6 +6193,7 @@
 ||psipolaxis.qpon^
 ||pointelnub.qpon^
 ||penplasson.qpon^
+||pbxphallus.qpon^
 ||ohiassnail.qpon^
 ||nootesting.qpon^
 ||movieteats.qpon^
@@ -7415,6 +7426,7 @@
 ||reknotpiratry.cyou^
 ||regaledbicarb.cyou^
 ||refurlnunquam.cyou^
+||reenterbikini.cyou^
 ||recallpumpage.cyou^
 ||qsmetingredds.cyou^
 ||punterstrebly.cyou^
@@ -7665,6 +7677,7 @@
 ||tiffscarisa.cyou^
 ||thonfelting.cyou^
 ||thilkunhoed.cyou^
+||taxwaxtreks.cyou^
 ||tapounskags.cyou^
 ||taggingamra.cyou^
 ||tabooflaxes.cyou^
@@ -7711,6 +7724,7 @@
 ||jumentfaurd.cyou^
 ||jockeybatel.cyou^
 ||jellokendir.cyou^
+||jaapwinevat.cyou^
 ||inhaulsfart.cyou^
 ||illbredfoul.cyou^
 ||hirersalung.cyou^
@@ -7741,6 +7755,7 @@
 ||bracaseewee.cyou^
 ||bouncycocin.cyou^
 ||biotechcive.cyou^
+||barfedtrema.cyou^
 ||backerfogie.cyou^
 ||autoflowbin.cyou^
 ||atissolidus.cyou^
@@ -9497,6 +9512,7 @@
 ||dazzlingnoise.pro^
 ||culturedcrash.pro^
 ||crispweakness.pro^
+||carefultongue.pro^
 ||tr.buenasofertas.pro^
 ||average-worry.pro^
 ||attractivemap.pro^
@@ -26943,6 +26959,7 @@
 ||tdxegdjfabfgkg.com^
 ||tdslinetraffic.com^
 ||tdrpnjyxspboat.com^
+||tbgehesqivycnf.com^
 ||universaldev.taylormadegolf.com^
 ||metrics.taylormadegolf.com^
 ||tastelesstrees.com^
@@ -41943,6 +41960,7 @@
 ||sst.fieldroutes.com^
 ||fieldconfig.com^
 ||partner.portal.fidormarket.com^
+||fgaxbdtgdia.com^
 ||ffajhxmenny.com^
 ||otlhn.fentybeauty.com^
 ||fkxlsc.fenix-store.com^
@@ -60300,6 +60318,7 @@
 ||jdmzkxry.com^
 ||jdhsx357.com^
 ||jcvwmstu.com^
+||jcrjlzcl.com^
 ||ttmetrics.jcpenney.com^
 ||metrics.jcpenney.com^
 ||kwvbhj.jcpenney.com^
@@ -75051,6 +75070,7 @@
 ||edge.q107.com^
 ||q06g.com^
 ||dcs.pyur.com^
+||pxp9.com^
 ||metrics.puma.com^
 ||tybfxw.puma.com^
 ||app.puma.com^
@@ -77277,6 +77297,7 @@
 ||hzwulbxmhxrjuzgywt7zyopmvn4wzrnev.cfd^
 ||hc8uf94knvyq3gm9km187wuct3wx6r5w2.cfd^
 ||9h6wuyen6kmm6rptqujjm2mkuij3bbpo6.cfd^
+||7pobx6vqzbl8bcpgmevl395yyybblbzzk.cfd^
 ||z4q4lg98hgwcg6g87nncp38g6ff891ee.cfd^
 ||x3nog4kmx8x38ui15gyz91211lyn99mc.cfd^
 ||mocuvmnjp1p83l2g9lgvu1qcghg3ibrg.cfd^
@@ -77659,6 +77680,7 @@
 ||manlikelignegimpy.cfd^
 ||macabregrushpraos.cfd^
 ||lithoedjiffycurbs.cfd^
+||lewdballersyeomen.cfd^
 ||lekythistowingeel.cfd^
 ||jostledsibsmalmed.cfd^
 ||jemmiedshtunqueen.cfd^
@@ -77674,6 +77696,7 @@
 ||ftvrm39rox222hj1y.cfd^
 ||fn9lyj68l2itlf7nq.cfd^
 ||feditysalmaphials.cfd^
+||faenasthereoflalo.cfd^
 ||eynebrugeseluvium.cfd^
 ||endhandsyzygiahen.cfd^
 ||ecnikbpb2gy8zo3u1.cfd^
@@ -93350,6 +93373,7 @@
 ||rumhuhcadkih.in^
 ||rihgimsatawp.in^
 ||rhujriqfoarz.in^
+||rhoosscrunuj.in^
 ||pwyvpekuwbaz.in^
 ||pwyonxawllzy.in^
 ||pubkisakvsfy.in^
@@ -93399,6 +93423,7 @@
 ||zusawqzzaad.in^
 ||zrubkiqmocu.in^
 ||zigavpnmyqz.in^
+||wwarrifmila.in^
 ||wuqwruavhah.in^
 ||wpiofhviqhc.in^
 ||wirqajhmaop.in^
