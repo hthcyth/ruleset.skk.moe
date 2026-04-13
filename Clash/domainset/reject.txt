@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-04-13T08:58:03.989Z
-# Size: 116164
+# Last Updated: 2026-04-13T10:30:24.791Z
+# Size: 116172
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -268,6 +268,7 @@
 +.udplgiotjursc.website
 +.udophtkooyzew.website
 +.ubvupyixsnkwr.website
++.ubizwydxpctut.website
 +.uabvpjljbbaqa.website
 +.tzqgwxfgruelq.website
 +.tyuwgkergjvbn.website
@@ -1176,6 +1177,7 @@ analytics.newgenre.studio
 +.rzsqfxjdrtdsc.online
 +.rzndvgmnmjqqd.online
 +.rzbysubusbyzc.online
++.rxmklgldqtxor.online
 +.rxbmckvoxesqa.online
 +.rtdpfwzxfajfl.online
 +.rsxtxfgrowhzm.online
@@ -1443,6 +1445,7 @@ analytics.newgenre.studio
 +.ghktwxuzvuufr.online
 +.ggrymktmbbauf.online
 +.ggpkyvsokroop.online
++.geesmqgnmzpyq.online
 +.gdxvvxfapccuh.online
 +.gdaktkrxjfohf.online
 +.gcmogssktstxp.online
@@ -3691,6 +3694,7 @@ ssp1.kfadx.tech
 +.pafgqomjnajho.site
 +.ozhgliojoehvr.site
 +.oyovpsltjgvzd.site
++.oxgacihwhjobk.site
 +.oxdooomwmztva.site
 +.owezamhaewjym.site
 +.oupvfjtyxfxky.site
@@ -19321,6 +19325,7 @@ analytics.immersivetranslate.com
 +.definedbootnervous.com
 +.decoratedmulesanta.com
 +.decimalediblegoose.com
++.decimal-impression.com
 +.dealdivorceathwart.com
 +.datingprudethimble.com
 +.dating-honeygirles.com
@@ -24837,6 +24842,7 @@ display.360totalsecurity.com
 +.decent-negative.com
 +.tracking.dealeranalytics.com
 +.dcsomihsehwjfqc.com
++.dckhrdhwdenqpap.com
 +.dazedarticulate.com
 +.fp.dawnhouseliving.com
 +.gtm.davidguerrerofx.com
@@ -57581,6 +57587,7 @@ geolocation.onetrust.com
 +.zfljc.obrolabs.com
 +.obaivrek.com
 +.oardilin.com
++.oactgbgf.com
 +.o1ych4jb.com
 +.a8.o-tayori.com
 +.eb.o-b-labo.com
@@ -75469,6 +75476,7 @@ acs.56.com
 +.55yy56n7p2ug15lrwz.cfd
 +.ygapolususesrisks.cfd
 +.wxmxrg3551onwl2wq.cfd
++.wigwamkykedegusts.cfd
 +.wayangbedunceryke.cfd
 +.wallaalkylicjaunt.cfd
 +.voetfencedwedgies.cfd

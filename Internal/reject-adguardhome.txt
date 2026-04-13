@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Mon, 13 Apr 2026 08:58:14 GMT
+! Last modified: Mon, 13 Apr 2026 10:30:35 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -261,6 +261,7 @@
 ||udplgiotjursc.website^
 ||udophtkooyzew.website^
 ||ubvupyixsnkwr.website^
+||ubizwydxpctut.website^
 ||uabvpjljbbaqa.website^
 ||tzqgwxfgruelq.website^
 ||tyuwgkergjvbn.website^
@@ -1199,6 +1200,7 @@
 ||rzsqfxjdrtdsc.online^
 ||rzndvgmnmjqqd.online^
 ||rzbysubusbyzc.online^
+||rxmklgldqtxor.online^
 ||rxbmckvoxesqa.online^
 ||rtdpfwzxfajfl.online^
 ||rsxtxfgrowhzm.online^
@@ -1466,6 +1468,7 @@
 ||ghktwxuzvuufr.online^
 ||ggrymktmbbauf.online^
 ||ggpkyvsokroop.online^
+||geesmqgnmzpyq.online^
 ||gdxvvxfapccuh.online^
 ||gdaktkrxjfohf.online^
 ||gcmogssktstxp.online^
@@ -3827,6 +3830,7 @@
 ||pafgqomjnajho.site^
 ||ozhgliojoehvr.site^
 ||oyovpsltjgvzd.site^
+||oxgacihwhjobk.site^
 ||oxdooomwmztva.site^
 ||owezamhaewjym.site^
 ||oupvfjtyxfxky.site^
@@ -20256,6 +20260,7 @@
 ||definedbootnervous.com^
 ||decoratedmulesanta.com^
 ||decimalediblegoose.com^
+||decimal-impression.com^
 ||dealdivorceathwart.com^
 ||datingprudethimble.com^
 ||dating-honeygirles.com^
@@ -25816,6 +25821,7 @@
 ||decent-negative.com^
 ||tracking.dealeranalytics.com^
 ||dcsomihsehwjfqc.com^
+||dckhrdhwdenqpap.com^
 ||dazedarticulate.com^
 ||fp.dawnhouseliving.com^
 ||gtm.davidguerrerofx.com^
@@ -59287,6 +59293,7 @@
 ||zfljc.obrolabs.com^
 ||obaivrek.com^
 ||oardilin.com^
+||oactgbgf.com^
 ||o1ych4jb.com^
 ||a8.o-tayori.com^
 ||eb.o-b-labo.com^
@@ -77656,6 +77663,7 @@
 ||55yy56n7p2ug15lrwz.cfd^
 ||ygapolususesrisks.cfd^
 ||wxmxrg3551onwl2wq.cfd^
+||wigwamkykedegusts.cfd^
 ||wayangbedunceryke.cfd^
 ||wallaalkylicjaunt.cfd^
 ||voetfencedwedgies.cfd^
