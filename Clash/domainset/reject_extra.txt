@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-04-14T12:21:07.463Z
-# Size: 84854
+# Last Updated: 2026-04-14T14:30:33.511Z
+# Size: 84855
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4844,6 +4844,7 @@
 +.smbzsbsahhxaj.online
 +.slzpcjksfrkei.online
 +.slywtzllxzvwx.online
++.slpiqbmvyvaih.online
 +.sljahnmoeqlis.online
 +.slhemrnxzsmgg.online
 +.sleeybknlwlcv.online
@@ -44832,6 +44833,7 @@ otn.samsungcloudcdn.com
 +.13withfactories.com
 +.10minutebitcoin.com
 +.1000islandsinfo.com
++.zquhhnkxnkoeoa.com
 +.zeustechnology.com
 +.zeusminingpool.com
 +.zeroredirect12.com
@@ -49293,7 +49295,6 @@ otn.samsungcloudcdn.com
 +.gondesss.albarikfabric.com
 +.alarmingapple.com
 +.alarming-bike.com
-+.ajugalknxcrmr.com
 +.ajourerabbity.com
 +.ajkernews24bd.com
 +.ajcryptominer.com
