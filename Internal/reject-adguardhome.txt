@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Wed, 15 Apr 2026 17:58:26 GMT
+! Last modified: Wed, 15 Apr 2026 19:26:31 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -409,6 +409,7 @@
 ||ocezkkczukfcn.website^
 ||nzezezqjwortv.website^
 ||nyctsnsuuxbsf.website^
+||nxioaumzxuvds.website^
 ||nxhkagcslidhv.website^
 ||nwblxrekatzrg.website^
 ||nvxnpizqvnluw.website^
@@ -1413,6 +1414,7 @@
 ||jyqoncmjnooia.online^
 ||jygyrxjwiccts.online^
 ||jxwwmbsgyhuae.online^
+||jxiiwldewtdql.online^
 ||jvkapzajyuhnh.online^
 ||jujvecrjgjvtq.online^
 ||jtzwbiowsispo.online^
@@ -4022,6 +4024,7 @@
 ||koawfitxqieyj.site^
 ||knxnrqidbmlen.site^
 ||knwjmjujhadoo.site^
+||kncdkzxxjazci.site^
 ||kkopshcenbxot.site^
 ||kjkgnwilhlxtd.site^
 ||kjhpjdnnnbuxd.site^
@@ -6308,6 +6311,7 @@
 ||araneaegave.qpon^
 ||amitlimulus.qpon^
 ||acoparietid.qpon^
+||aboughtcull.qpon^
 ||witchylimn.qpon^
 ||vendoroven.qpon^
 ||trumprears.qpon^
@@ -45754,6 +45758,7 @@
 ||qtqv3cy43w.com^
 ||qsmwycdrdh.com^
 ||qrumphathu.com^
+||qphxutefxv.com^
 ||qoptcekpwa.com^
 ||app.qnasdaqomx.com^
 ||qmj89db55u.com^
