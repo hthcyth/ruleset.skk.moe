@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Thu, 16 Apr 2026 17:49:40 GMT
+! Last modified: Thu, 16 Apr 2026 18:02:08 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -208,6 +208,7 @@
 ||wcviihmimohwa.website^
 ||wbsclebhgfrge.website^
 ||vylbwgwekixkk.website^
+||vxwnxdwnonqeg.website^
 ||vxsyrwwklzcuc.website^
 ||vrsfzpatvogzo.website^
 ||vqalsttfilgui.website^
@@ -218,6 +219,8 @@
 ||vmvdnxrkephwg.website^
 ||vloxhazxibons.website^
 ||vlkvviufipfsw.website^
+||vkzekotcfcvlm.website^
+||vkschwjklmans.website^
 ||vjyzaxcsssrun.website^
 ||vjmwnvteuhwhe.website^
 ||vibykqpidgxwj.website^
@@ -1526,6 +1529,7 @@
 ||fhjznkepmqrzj.online^
 ||fhhteiaunxbvp.online^
 ||fgoqfrzcwdmrh.online^
+||fgmkedzcrvsyl.online^
 ||ffebrjkvxsrlx.online^
 ||feqwggxdibzmq.online^
 ||fefupklsamwme.online^
@@ -4032,6 +4036,7 @@
 ||knwjmjujhadoo.site^
 ||kncdkzxxjazci.site^
 ||kkopshcenbxot.site^
+||kjljrwoibgbso.site^
 ||kjkgnwilhlxtd.site^
 ||kjhpjdnnnbuxd.site^
 ||kiycjwljmjovg.site^
@@ -9789,6 +9794,7 @@
 ||excitedwing.pro^
 ||elasticpull.pro^
 ||dull-plenty.pro^
+||dry-version.pro^
 ||distinctsky.pro^
 ||sdg.desihamster.pro^
 ||gtm.coachlaunch.pro^
@@ -37503,6 +37509,7 @@
 ||dggenduprnyi.com^
 ||dfhmamhindaz.com^
 ||connect.dexterchaney.com^
+||devilstagish.com^
 ||marketing.devilslakend.com^
 ||plan.devbyexample.com^
 ||load.sgtm.deutermanlaw.com^
@@ -41292,6 +41299,7 @@
 ||customer.libertycarz.com^
 ||liandaomobi.com^
 ||sst.liagriffith.com^
+||lhoichnosnw.com^
 ||lfhrijmrvsv.com^
 ||sgtm.levelaccess.com^
 ||ads.levameuguia.com^
@@ -77911,6 +77919,7 @@
 ||jr5lbhqwtqx7ct5tit4.cfd^
 ||j14pwhjbmelb7wlfh3i.cfd^
 ||impetretangosuncool.cfd^
+||hurtfulberendslimly.cfd^
 ||hupxbntreuoieemcubt.cfd^
 ||hooraysrhumbarctium.cfd^
 ||heloepunditsskyhook.cfd^

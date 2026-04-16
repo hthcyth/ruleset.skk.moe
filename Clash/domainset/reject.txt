@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-04-16T17:49:30.301Z
-# Size: 116366
+# Last Updated: 2026-04-16T18:01:58.370Z
+# Size: 116375
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -215,6 +215,7 @@
 +.wcviihmimohwa.website
 +.wbsclebhgfrge.website
 +.vylbwgwekixkk.website
++.vxwnxdwnonqeg.website
 +.vxsyrwwklzcuc.website
 +.vrsfzpatvogzo.website
 +.vqalsttfilgui.website
@@ -225,6 +226,8 @@
 +.vmvdnxrkephwg.website
 +.vloxhazxibons.website
 +.vlkvviufipfsw.website
++.vkzekotcfcvlm.website
++.vkschwjklmans.website
 +.vjyzaxcsssrun.website
 +.vjmwnvteuhwhe.website
 +.vibykqpidgxwj.website
@@ -1503,6 +1506,7 @@ analytics.newgenre.studio
 +.fhjznkepmqrzj.online
 +.fhhteiaunxbvp.online
 +.fgoqfrzcwdmrh.online
++.fgmkedzcrvsyl.online
 +.ffebrjkvxsrlx.online
 +.feqwggxdibzmq.online
 +.fefupklsamwme.online
@@ -3896,6 +3900,7 @@ ssp1.kfadx.tech
 +.knwjmjujhadoo.site
 +.kncdkzxxjazci.site
 +.kkopshcenbxot.site
++.kjljrwoibgbso.site
 +.kjkgnwilhlxtd.site
 +.kjhpjdnnnbuxd.site
 +.kiycjwljmjovg.site
@@ -9456,6 +9461,7 @@ collect.foresightnews.pro
 +.excitedwing.pro
 +.elasticpull.pro
 +.dull-plenty.pro
++.dry-version.pro
 +.distinctsky.pro
 +.sdg.desihamster.pro
 +.gtm.coachlaunch.pro
@@ -36329,6 +36335,7 @@ a.dounanhuahui.com
 +.dggenduprnyi.com
 +.dfhmamhindaz.com
 +.connect.dexterchaney.com
++.devilstagish.com
 +.marketing.devilslakend.com
 +.plan.devbyexample.com
 +.load.sgtm.deutermanlaw.com
@@ -40021,6 +40028,7 @@ d1.speedvitals.com
 +.customer.libertycarz.com
 +.liandaomobi.com
 +.sst.liagriffith.com
++.lhoichnosnw.com
 +.lfhrijmrvsv.com
 +.sgtm.levelaccess.com
 +.ads.levameuguia.com
@@ -75723,6 +75731,7 @@ acs.56.com
 +.jr5lbhqwtqx7ct5tit4.cfd
 +.j14pwhjbmelb7wlfh3i.cfd
 +.impetretangosuncool.cfd
++.hurtfulberendslimly.cfd
 +.hupxbntreuoieemcubt.cfd
 +.hooraysrhumbarctium.cfd
 +.heloepunditsskyhook.cfd
