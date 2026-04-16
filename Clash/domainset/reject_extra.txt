@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-04-16T09:46:43.376Z
-# Size: 85399
+# Last Updated: 2026-04-16T17:49:30.301Z
+# Size: 85400
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -708,6 +708,7 @@
 +.vyjvoegkwxabj.website
 +.vyargtzwkkasg.website
 +.vxxusdcloqauy.website
++.vxwnxdwnonqeg.website
 +.vxvzcjxkyanrs.website
 +.vxpmdsjycuuui.website
 +.vxlpmyezjoqge.website
@@ -775,7 +776,9 @@
 +.vljmtgugalujt.website
 +.vlgmfdchutvxh.website
 +.vlfmcodhzuthr.website
++.vkzekotcfcvlm.website
 +.vkynuspzupokz.website
++.vkschwjklmans.website
 +.vkkqylhklrwuj.website
 +.vjycodznmemui.website
 +.vjtbgysqkmngz.website
@@ -1466,7 +1469,6 @@
 +.qtnljylmjmwpz.website
 +.qtjlciojkhkfl.website
 +.qtcpvgdluotko.website
-+.qsuzotytrvysv.website
 +.qssyrdraieoer.website
 +.qsrvzbuhumwow.website
 +.qspptnjhxeneo.website
@@ -6900,6 +6902,7 @@
 +.fhtpntevoiojz.online
 +.fhsgntrgjtioc.online
 +.fhoodmdcbyqxt.online
++.fgmkedzcrvsyl.online
 +.ffwmijupxxcda.online
 +.ffuonqdlvkdpm.online
 +.ffqumyjlunpga.online
@@ -7152,7 +7155,6 @@
 +.cdfkygvddsbre.online
 +.ccpdaindrmyyx.online
 +.cceotabubmypm.online
-+.ccbrvpolhwrrj.online
 +.cbvnzczrbcjoq.online
 +.cbpttdpymofjx.online
 +.cblmcgeipgxxc.online
@@ -10374,7 +10376,6 @@
 +.qcjgyhgwtzlzv.space
 +.qcennhkrzskze.space
 +.qbxhcxkqzqgdh.space
-+.qbrkmdxsnklxu.space
 +.qbrfvxzvhmyvh.space
 +.qbnyheznoeglk.space
 +.qbljkbmhpybdl.space
@@ -15260,7 +15261,6 @@
 +.lmaowukrqnyiu.site
 +.llqczvttfraib.site
 +.llpgphvdkxzky.site
-+.llouandwhbivf.site
 +.llnakdvnqoghu.site
 +.lljbszgukzvnu.site
 +.llfyjvskyxnsv.site
@@ -15409,6 +15409,7 @@
 +.kjyahvnwgmltl.site
 +.kjtipyiisrgig.site
 +.kjpfxbojgminv.site
++.kjljrwoibgbso.site
 +.kjgxjmhwfiepl.site
 +.kjgejeteyjbrz.site
 +.kjbulizcoofpf.site
@@ -16111,7 +16112,6 @@
 +.epilovnncqduc.site
 +.epbssmpdthcsl.site
 +.eostvofsqqsvi.site
-+.eonyagtfvpvuz.site
 +.eonwuljgmyjep.site
 +.eoglimegdapoh.site
 +.eobufdobeaxai.site
@@ -16367,7 +16367,6 @@
 +.bsaziqhaldzoy.site
 +.brzjthsubtlwj.site
 +.brzbrjycauqcf.site
-+.brvxflfhfehle.site
 +.brtwlhfmomcng.site
 +.brsizbesdzmle.site
 +.brrymylzryxdd.site
@@ -21064,7 +21063,6 @@
 +.cornicgidgeespartan.cyou
 +.chiningafrightaband.cyou
 +.castsbylinerdistyle.cyou
-+.carriedwinlesspases.cyou
 +.biddiesieringtowzie.cyou
 +.beclogcabbiesazande.cyou
 +.bayardagleafgallons.cyou
@@ -25990,7 +25988,6 @@
 +.cheap-contact.pro
 +.butteryamount.pro
 +.burdensometoe.pro
-+.brokenholiday.pro
 +.broken-reason.pro
 +.awkwarddetail.pro
 +.awful-college.pro
@@ -26258,6 +26255,7 @@
 +.edible-sort.pro
 +.dutiful-mud.pro
 +.dsu-adguard.pro
++.dry-version.pro
 +.doting-rush.pro
 +.dizzyobject.pro
 +.discretebid.pro
@@ -43742,6 +43740,7 @@ fkp.samsungcloudsolution.com
 +.softeninsinuate.com
 +.sociallypublish.com
 +.snoweeanalytics.com
++.snivelinginsect.com
 +.snippystowstool.com
 +.snarescientific.com
 +.smashedplumepea.com
@@ -49527,7 +49526,6 @@ otn.samsungcloudcdn.com
 +.bonnetmarshal.com
 +.bogusproperty.com
 +.bogeyedoutbye.com
-+.blushingbread.com
 +.blushing-band.com
 +.blunderfluffy.com
 +.bluffforester.com
@@ -51930,6 +51928,7 @@ otn.samsungcloudcdn.com
 +.dexchangeinc.com
 +.devotedwhile.com
 +.devotedspree.com
++.devilstagish.com
 +.devilinquiry.com
 +.device-guard.com
 +.detailsdata7.com
@@ -54087,6 +54086,7 @@ otn.samsungcloudcdn.com
 +.lickinggoal.com
 +.lib-333-lib.com
 +.li-ke-lo-ve.com
++.lhoichnosnw.com
 +.lfmeyarlqcl.com
 +.lets-tip315.com
 +.letraoquavn.com
@@ -62384,7 +62384,6 @@ samsungeurope.eu.qualtrics.com
 +.acuityads.com
 +.actionrtb.com
 +.acrxcards.com
-+.acrkanmof.com
 +.acnenomor.com
 +.acidmercy.com
 +.aceminers.com
@@ -63990,6 +63989,7 @@ mepodownload.mediatek.com
 +.kistured.com
 +.kingwith.com
 +.kingbole.com
++.kindhush.com
 +.kimikoi8.com
 +.xml.kilo-bid.com
 +.shvnb.kfcvnpay.com
@@ -72344,6 +72344,7 @@ healthdata.hicloud.com
 +.iecvijvuhz28kyv9ofp.cfd
 +.i4l2jjn4hhq17frcp9o.cfd
 +.i1he1ixrh9unhb2jgh5.cfd
++.hurtfulberendslimly.cfd
 +.hulchmarathimesozoa.cfd
 +.hql237ec5nhptgyfkxj.cfd
 +.hogginalertapittine.cfd
