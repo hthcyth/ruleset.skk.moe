@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2026-04-18T17:28:22.763Z
-# Size: 116462
+# Last Updated: 2026-04-18T18:34:47.795Z
+# Size: 116471
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -682,6 +682,7 @@
 +.dbellraiqclun.website
 +.dazibhuhumkzf.website
 +.cxutqsjbwtkth.website
++.cxofostbnjehi.website
 +.cumxwcpfpyapb.website
 +.cttnmjpplccxm.website
 +.ctpeniehlsqmq.website
@@ -731,6 +732,7 @@
 +.autwbeanqsrou.website
 +.aukgiecbioahe.website
 +.atoohghljijgj.website
++.asnlwihpumczi.website
 +.aribhndocwhwn.website
 +.arbwkzntfkfmz.website
 +.aqczcwemqgiga.website
@@ -1613,6 +1615,7 @@ analytics.newgenre.studio
 +.dewoyxkvgtshn.online
 +.delqphfqgnrty.online
 +.ddujqrwidmrso.online
++.dboccfzxlavyp.online
 +.dawonfjvwjcaj.online
 +.davsvyxvhsled.online
 +.dalrmayksroqa.online
@@ -2839,6 +2842,7 @@ crsoptimizer.conversionrate.store
 +.evkjlmtnqwwcu.space
 +.euuckvubfrktg.space
 +.etjrkgaqrkfad.space
++.eqpuvcjjipmjn.space
 +.eootvjoiaritc.space
 +.eojnmxdvcgozv.space
 +.eoddlpgtoxkmk.space
@@ -7091,6 +7095,7 @@ nmbr.info
 +.ramismhelenabolting.cyou
 +.g6nmrcqlx.qvq6kkeobmqunp4etfg.cyou
 +.queriedsorchinnikon.cyou
++.preterbultowtarkhan.cyou
 +.pressersammyrenably.cyou
 +.plasticfreakmervail.cyou
 +.nitroscalecheupbeat.cyou
@@ -24090,6 +24095,7 @@ display.360totalsecurity.com
 +.analytic-client.playful-fairies.com
 +.playedsophomore.com
 +.stape.plantlifeschool.com
++.pjtaxoejiicilsd.com
 +.pjfrxxmajcjypdm.com
 +.sst.pizzeriageniale.com
 +.applogs-v2.pixelfederation.com
@@ -27613,6 +27619,7 @@ display.360totalsecurity.com
 +.thegreatesthits.headphonecheck.com
 +.offers.hddistributors.com
 +.gtm.hbt-collection.com
++.hazzanssudanic.com
 +.hazmatworkshop.com
 +.qsmqv.haydenbjewelry.com
 +.jannat.hayaofmuslimah.com
@@ -37969,6 +37976,7 @@ in.vipliangmei.com
 +.load.dwga.unclearnies.com
 +.sgtm.unboxgreece.com
 +.sst.unboxgreece.com
++.unbetpailow.com
 +.sst.umzugmacher.com
 +.site.ultimatetax.com
 +.load.ads.ulti700capi.com
@@ -41255,6 +41263,7 @@ httpdns.huaweicloud.com
 +.dustyhammer.com
 +.ss.dustavacuum.com
 +.go.durst-group.com
++.duneboggart.com
 +.stp.dullesglass.com
 +.dugesheying.com
 +.duagwkptkce.com

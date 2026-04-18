@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - AdGuardHome Blocklist
-! Last modified: Sat, 18 Apr 2026 17:28:33 GMT
+! Last modified: Sat, 18 Apr 2026 18:34:57 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -675,6 +675,7 @@
 ||dbellraiqclun.website^
 ||dazibhuhumkzf.website^
 ||cxutqsjbwtkth.website^
+||cxofostbnjehi.website^
 ||cumxwcpfpyapb.website^
 ||cttnmjpplccxm.website^
 ||ctpeniehlsqmq.website^
@@ -724,6 +725,7 @@
 ||autwbeanqsrou.website^
 ||aukgiecbioahe.website^
 ||atoohghljijgj.website^
+||asnlwihpumczi.website^
 ||aribhndocwhwn.website^
 ||arbwkzntfkfmz.website^
 ||aqczcwemqgiga.website^
@@ -1636,6 +1638,7 @@
 ||dewoyxkvgtshn.online^
 ||delqphfqgnrty.online^
 ||ddujqrwidmrso.online^
+||dboccfzxlavyp.online^
 ||dawonfjvwjcaj.online^
 ||davsvyxvhsled.online^
 ||dalrmayksroqa.online^
@@ -2903,6 +2906,7 @@
 ||evkjlmtnqwwcu.space^
 ||euuckvubfrktg.space^
 ||etjrkgaqrkfad.space^
+||eqpuvcjjipmjn.space^
 ||eootvjoiaritc.space^
 ||eojnmxdvcgozv.space^
 ||eoddlpgtoxkmk.space^
@@ -7309,6 +7313,7 @@
 ||ramismhelenabolting.cyou^
 ||g6nmrcqlx.qvq6kkeobmqunp4etfg.cyou^
 ||queriedsorchinnikon.cyou^
+||preterbultowtarkhan.cyou^
 ||pressersammyrenably.cyou^
 ||plasticfreakmervail.cyou^
 ||nitroscalecheupbeat.cyou^
@@ -25060,6 +25065,7 @@
 ||analytic-client.playful-fairies.com^
 ||playedsophomore.com^
 ||stape.plantlifeschool.com^
+||pjtaxoejiicilsd.com^
 ||pjfrxxmajcjypdm.com^
 ||sst.pizzeriageniale.com^
 ||applogs-v2.pixelfederation.com^
@@ -28627,6 +28633,7 @@
 ||thegreatesthits.headphonecheck.com^
 ||offers.hddistributors.com^
 ||gtm.hbt-collection.com^
+||hazzanssudanic.com^
 ||hazmatworkshop.com^
 ||qsmqv.haydenbjewelry.com^
 ||jannat.hayaofmuslimah.com^
@@ -39183,6 +39190,7 @@
 ||load.dwga.unclearnies.com^
 ||sgtm.unboxgreece.com^
 ||sst.unboxgreece.com^
+||unbetpailow.com^
 ||sst.umzugmacher.com^
 ||ultimuspool.com^
 ||site.ultimatetax.com^
@@ -42550,6 +42558,7 @@
 ||dustyhammer.com^
 ||ss.dustavacuum.com^
 ||go.durst-group.com^
+||duneboggart.com^
 ||stp.dullesglass.com^
 ||dugesheying.com^
 ||duagwkptkce.com^
