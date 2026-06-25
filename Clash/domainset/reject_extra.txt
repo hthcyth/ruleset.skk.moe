@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2026-06-24T05:43:20.425Z
+# Last Updated: 2026-06-24T19:00:45.000Z
 # Size: 77647
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -57,6 +57,7 @@
 +.refer.horizonfitness.marketing
 +.arche.marketing
 +.back.marketing
++.kis.marketing
 +.moneey.christmas
 +.analytics.floris.amsterdam
 +.xn--80afden1bnch4a.xn--p1ai
@@ -800,6 +801,7 @@
 +.rtkemctcfddwz.website
 +.rsqaxkycjgnaf.website
 +.rsorkpwtboedu.website
++.rskxqlhdscxfr.website
 +.rsapanhtopcqf.website
 +.rrrucdrkmpqed.website
 +.rqwdkzycggpqt.website
@@ -923,6 +925,7 @@
 +.qbmxmuaifmpol.website
 +.qbltvdeqmrzxt.website
 +.qbkzoovlstqom.website
++.qaedmtczrudfq.website
 +.pzwzitvbdhpiw.website
 +.pzemzwvodejwz.website
 +.pyvenjyewteku.website
@@ -3110,7 +3113,6 @@
 +.ttyqsbjkbuxyp.online
 +.ttusrifbdjqay.online
 +.tttufjyvaczzo.online
-+.tttpcdjavbfjl.online
 +.ttoyfmexbpwhj.online
 +.ttlouwaejtqlb.online
 +.ttkmtmvtrezer.online
@@ -3310,6 +3312,7 @@
 +.rihurxgrxghfh.online
 +.riehurqwgtdey.online
 +.ridxvydxlhiej.online
++.ridpygsqfcdte.online
 +.rhvdupzwgazwr.online
 +.rhhahzqblcxem.online
 +.rgtirdhtvixql.online
@@ -4408,7 +4411,6 @@
 +.fhoodmdcbyqxt.online
 +.fhhteiaunxbvp.online
 +.fgoqfrzcwdmrh.online
-+.fggxupklylewk.online
 +.ffwmijupxxcda.online
 +.ffuonqdlvkdpm.online
 +.ffqumyjlunpga.online
@@ -7141,6 +7143,7 @@
 +.rwzxsuwwuijen.space
 +.rwzweheqfaqct.space
 +.rwxpkychnthdx.space
++.rwpvjrjxyhpzr.space
 +.rwjbdrzrqgsrf.space
 +.rwglmbgecjkom.space
 +.rvmhvgrtdzjof.space
@@ -7306,6 +7309,7 @@
 +.pvuznrtadztxu.space
 +.pvnwfoxrfezes.space
 +.pvmhugflwgkri.space
++.pvkwnghghldtx.space
 +.pvcubbshnlzys.space
 +.pvcnhlmuvgrcc.space
 +.puinnjsexnlbo.space
@@ -7320,6 +7324,7 @@
 +.psypssuezhejo.space
 +.pswlsefuaueke.space
 +.psuqcrvrchbbv.space
++.pspbnoygysycg.space
 +.psnsbliinngie.space
 +.pskuagktarplq.space
 +.psdlcuqojbuxn.space
@@ -7524,7 +7529,6 @@
 +.nlcqnasbppptk.space
 +.nlagcpxrwkxiv.space
 +.nkyzsgitgjdam.space
-+.nkxepfgfpidji.space
 +.nkwampojlqbic.space
 +.nkueonpkfsaiy.space
 +.nkhgheadrrrbt.space
@@ -8104,7 +8108,6 @@
 +.hjcabozdxphbq.space
 +.hiyszuqbiglyh.space
 +.hivuxuonibnte.space
-+.hinyvzedpcuiz.space
 +.hiajcgduerzom.space
 +.hhztfzqnmduga.space
 +.hhjmzywlpqqkb.space
@@ -8207,7 +8210,6 @@
 +.fwtlvkgbmqqme.space
 +.fwrtzdlspzybl.space
 +.fwqasyuebarqa.space
-+.fwpxuulzjjxno.space
 +.fwnezrrjmbjjl.space
 +.fvpsbdbaiobud.space
 +.fvpcmlmpoyldc.space
@@ -8509,7 +8511,6 @@
 +.ctgpterrasekv.space
 +.cslmpnddwujdf.space
 +.csjggncfpbhnq.space
-+.creuvyopidbmd.space
 +.craurxxwkhbup.space
 +.cqkpoxtlakibf.space
 +.cqjgztejpzvkd.space
@@ -9097,7 +9098,6 @@
 +.vaynhanh5p.click
 +.vablecable.click
 +.thebestone.click
-+.serverfile.click
 +.panger-top.click
 +.onevanilla.click
 +.mete-bella.click
@@ -9281,6 +9281,7 @@
 +.multiquality.tech
 +.tprofile.goldmansachs.tech
 +.futurehybrid.tech
++.swiftfusion.tech
 +.spininitial.tech
 +.primis-amp.tech
 +.paservices.tech
@@ -10238,7 +10239,6 @@
 +.rjbfslmffohss.site
 +.rilnkygbfbvru.site
 +.rigapchevkews.site
-+.ridxdbbayfmwj.site
 +.rhynhmifegimi.site
 +.rhwajoghefysf.site
 +.rhinfyfqtvift.site
@@ -10248,7 +10248,6 @@
 +.rgfawwiupzdho.site
 +.rgezwfnbpigkd.site
 +.rfpbmkezjrtkf.site
-+.rexveqjqotqus.site
 +.ressqretcwdkp.site
 +.relaamlrijdxq.site
 +.rehyqhtvaihtg.site
@@ -11800,7 +11799,6 @@
 +.bpcieckgpwjqp.site
 +.bpauszxiaozwb.site
 +.botvwyytbwpdb.site
-+.bosmjrzfssqus.site
 +.bohcgusfdrmyt.site
 +.bntpbhktnkjrn.site
 +.bnpubjzodmhew.site
@@ -11915,7 +11913,6 @@
 +.ajuhjaeaztfor.site
 +.ajggnilcptlgz.site
 +.ajewzcsnmnjex.site
-+.ajcpsepcghmeh.site
 +.ahzrdogdenuok.site
 +.ahxpudoydaraw.site
 +.ahrrxaidcghsb.site
@@ -12351,13 +12348,13 @@
 +.glovedmenaced.shop
 +.geggeesublong.shop
 +.free-money-to.shop
++.forayedfratry.shop
 +.fistleaccuser.shop
 +.finessaweight.shop
 +.filosetramman.shop
 +.fikeryminvend.shop
 +.fictorupflood.shop
 +.ff-membership.shop
-+.fanegasinflue.shop
 +.fallacydungon.shop
 +.faffleswiving.shop
 +.exodospaulian.shop
@@ -12600,7 +12597,6 @@
 +.allicebooky.shop
 +.aginbaretta.shop
 +.adhitagency.shop
-+.wensjussel.shop
 +.vn-nhanqua.shop
 +.vn-lienket.shop
 +.vib-up-the.shop
@@ -12719,7 +12715,6 @@
 +.pa.dexesmcg.shop
 +.clotveps.shop
 +.balamall.shop
-+.attgrane.shop
 +.apple-vn.shop
 +.amazonsg.shop
 +.xavions.shop
@@ -12833,8 +12828,8 @@
 +.ku7v49qghpkytrk537er.rest
 +.pnn3u5nyuhew8ynwomi.rest
 +.iujpr5vp4ejyuiv9i2c.rest
++.1ibh8q6m1qfn62gk7c7.rest
 +.zogczipe5hp25gempz.rest
-+.pi95lzihjbh91375yf.rest
 +.ku5txooz1otjpoxm58.rest
 +.brnju6iwxxgozijo3t.rest
 +.5e1jng5u4lfi5i9qqi.rest
@@ -12981,7 +12976,6 @@
 +.westerawnesschirmed.qpon
 +.washragpangslepiota.qpon
 +.viliacomutiveyfacks.qpon
-+.tortesliviermoloker.qpon
 +.tarterbawneenhydage.qpon
 +.synodusdifdacoenoby.qpon
 +.sturtenonmancrablet.qpon
@@ -13013,6 +13007,7 @@
 +.granthamperydoziest.qpon
 +.gibbolheterosdiking.qpon
 +.gerenttopknotretomb.qpon
++.gerentsbeethantilog.qpon
 +.galeaedifformpapaio.qpon
 +.fascialcippusbulkin.qpon
 +.exogenydorperforbow.qpon
@@ -13254,11 +13249,11 @@
 +.cobbledkankrej.qpon
 +.chinesegloriam.qpon
 +.chaconayautias.qpon
++.censualminable.qpon
 +.casbahscodding.qpon
 +.camelusnightly.qpon
 +.calumnypaharia.qpon
 +.ri.calabarfurivae.qpon
-+.cabbagyflagger.qpon
 +.caamingpandore.qpon
 +.bulkishshirpit.qpon
 +.brewerybussing.qpon
@@ -13277,7 +13272,7 @@
 +.vesperprayful.qpon
 +.zq.vaudouxmesial.qpon
 +.unhangdrowner.qpon
-+.umbellacongos.qpon
++.umbrielfeasor.qpon
 +.tuteloparsony.qpon
 +.tokyotossycay.qpon
 +.toasterenring.qpon
@@ -13290,7 +13285,6 @@
 +.suplexderipia.qpon
 +.subechotewter.qpon
 +.strovetunnage.qpon
-+.staumerimpalm.qpon
 +.softestchumps.qpon
 +.smaltosoutput.qpon
 +.my.sloydskiddish.qpon
@@ -13519,7 +13513,6 @@
 +.bobbleddonsy.qpon
 +.birchdulcian.qpon
 +.biffiescycle.qpon
-+.bidensfilter.qpon
 +.beowulfspars.qpon
 +.bemoatenform.qpon
 +.bambarawheel.qpon
@@ -14935,7 +14928,6 @@
 +.atonejagongdespoil.cyou
 +.aswashfoutelatania.cyou
 +.assethjardonideist.cyou
-+.amovingimsonicvlsi.cyou
 +.f.57n51vgw9rtufg4t6w.cyou
 +.8kxcc.1zvbpmcnmz1vy83t55.cyou
 +.ylfqm4t2b9j.1qmhlwziglrh1x4hbr.cyou
@@ -15134,7 +15126,6 @@
 +.indaminfumbler.cyou
 +.gypsousimagism.cyou
 +.guesterfending.cyou
-+.groovertestril.cyou
 +.grinnerskimmia.cyou
 +.xn.gombeencistron.cyou
 +.glorlataxaahed.cyou
@@ -15207,7 +15198,6 @@
 +.smashedversed.cyou
 +.slaveyscerote.cyou
 +.el.signumupwinds.cyou
-+.sebaitbedmate.cyou
 +.scobbykanauji.cyou
 +.sciurussunday.cyou
 +.sardarsbenami.cyou
@@ -15499,6 +15489,7 @@
 +.coseyskilij.cyou
 +.circsgamori.cyou
 +.caseousalba.cyou
++.canesbabool.cyou
 +.bostalflary.cyou
 +.biolcrewcut.cyou
 +.besquibache.cyou
@@ -20280,6 +20271,7 @@
 +.ellaism.org
 +.chanmiraicd1.duckdns.org
 +.africancomet.duckdns.org
++.2seguro2025.duckdns.org
 +.webwidgetz.duckdns.org
 +.tiwanlinm.duckdns.org
 +.sosclient.duckdns.org
@@ -22711,6 +22703,7 @@ d1e1rbybdt265x.cloudfront.net
 +.darkcoin.kicks-ass.net
 +.keymetric.net
 +.kascarpet.net
++.kambohmag.net
 +.jtqqzvqrd.net
 +.jsfactory.net
 +.jmxded100.net
@@ -23554,6 +23547,7 @@ d1e1rbybdt265x.cloudfront.net
 +.ad.zetacx.net
 +.zampda.net
 +.track.yetric.net
++.xuezha.net
 +.xhlive.net
 +.xgraph.net
 +.adx.xemvtv.net
@@ -34973,7 +34967,6 @@ scx.ddns.net
 +.openercompetent.com
 +.opencirculation.com
 +.opalcasinohotel.com
-+.onrpgdtytflxcna.com
 +.onlyforyougiirl.com
 +.only-sexy-girls.com
 +.onlinetopchoice.com
@@ -36833,7 +36826,6 @@ scx.ddns.net
 +.roselip-fetish.com
 +.rookerygravest.com
 +.rollbackavenge.com
-+.roeveskyagclwh.com
 +.cdntm.rodanandfields.com
 +.rockingfolders.com
 +.rockapostrophe.com
@@ -44427,6 +44419,7 @@ scx.ddns.net
 +.advertnative.com
 +.advert-track.com
 +.static-rtb2.advantagedsp.com
++.privacy.advancelocal.com
 +.adsterratech.com
 +.adstargeting.com
 +.adsreference.com
@@ -47649,7 +47642,6 @@ scx.ddns.net
 +.2499may2024.com
 +.247bank-ing.com
 +.247-banking.com
-+.2022frezoid.com
 +.1priest1nun.com
 +.1800tlowers.com
 +.1800flowerx.com
@@ -48846,6 +48838,7 @@ scx.ddns.net
 +.oxbhoasufu.com
 +.owhnkemicd.com
 +.owebsearch.com
++.outerwords.com
 +.outebytech.com
 +.ourtoolbar.com
 +.cyclobenzaprine.ourtablets.com
@@ -49329,7 +49322,6 @@ scx.ddns.net
 +.klikajadeh.com
 +.klfxyrueop.com
 +.klaushydra.com
-+.kkpeioqgeo.com
 +.kirastyler.com
 +.kingking79.com
 +.dspk.kindredplc.com
@@ -49623,6 +49615,7 @@ scx.ddns.net
 +.gyakusimei.com
 +.share.gxvebeauty.com
 +.gxordgtvjr.com
++.gwnxfkfbqf.com
 +.guztaoowjw.com
 +.gumadmired.com
 +.guitarmist.com
@@ -54389,6 +54382,7 @@ scx.ddns.net
 +.js.flashyapp.com
 +.fkliaytor.com
 +.fjwyfxmhv.com
++.fjordsand.com
 +.fixedcage.com
 +.content.fisglobal.com
 +.share.firstleaf.com
@@ -56506,7 +56500,6 @@ scx.ddns.net
 +.pdzumsyn.com
 +.mail.pcygphil.com
 +.pchcodes.com
-+.14-0-204-188.static.pccw-hkt.com
 +.pccvisas.com
 +.pcacodes.com
 +.pbleqbko.com
@@ -58987,6 +58980,7 @@ mepodownload.mediatek.com
 +.content.sheerid.com
 +.shbfina.com
 +.shapado.com
++.shaderm.com
 +.sh2tiki.com
 +.ads.sfusion.com
 +.sexy-ch.com
@@ -59041,6 +59035,7 @@ mepodownload.mediatek.com
 +.ruscams.com
 +.runwaff.com
 +.rumadel.com
++.down.ruanmei.com
 +.static.rtbwire.com
 +.login.rtbwire.com
 +.cpm.rtbwire.com
@@ -59690,6 +59685,7 @@ mepodownload.mediatek.com
 +.imglnka.com
 +.imarker.com
 +.tracking.ilinkmd.com
++.static.ilclock.com
 +.igloohq.com
 +.igameup.com
 +.ifydnun.com
@@ -61363,6 +61359,7 @@ mepodownload.mediatek.com
 +.renderer.qmerce.com
 +.qlnomb.com
 +.qivaiw.com
++.sta.qinxue.com
 +.qhdhtd.com
 +.qgmwby.com
 +.qfhzki.com
@@ -62288,7 +62285,6 @@ mepodownload.mediatek.com
 +.s.dskjl8.com
 +.s.dsjo13.com
 +.s.dsiyzy.com
-+.dsivor.com
 +.s.dship2.com
 +.s.dshfwa.com
 +.s.dsgc99.com
@@ -63034,6 +63030,7 @@ mepodownload.mediatek.com
 +.vstwm.com
 +.dichvucong.vsgov.com
 +.vseat.com
++.n.vs108.com
 +.vokut.com
 +.vodus.com
 +.vntkm.com
@@ -63554,7 +63551,6 @@ mepodownload.mediatek.com
 +.kstrk.com
 +.mininews.kpzip.com
 +.bundle.kpzip.com
-+.d.kpzip.com
 +.sopho.kozow.com
 +.bgre.kozow.com
 +.bit.kozow.com
@@ -63665,6 +63661,7 @@ mepodownload.mediatek.com
 +.hsusd.com
 +.hsrvu.com
 +.ads.hsoub.com
++.hseda.com
 +.hrtyc.com
 +.hrtya.com
 +.hpool.com
@@ -63861,7 +63858,6 @@ mepodownload.mediatek.com
 +.dlsft.com
 +.djers.com
 +.dixks.com
-+.stdown.dinju.com
 +.didit.com
 +.cybs.dhpay.com
 +.blogparts.dgpot.com
@@ -65013,6 +65009,7 @@ mepodownload.mediatek.com
 +.clqmmy2lhc2qnfjvyxigxe95wb.cfd
 +.bee3qlbxqu2h988rr4t4bcj5o9.cfd
 +.9595hn6i7uijpqu2grkb6kxg84.cfd
++.8kz2l28p3lqr8iwmpc8qp2332x.cfd
 +.2471hicttoikx3eerhq7ufn198.cfd
 +.zxe2e8v2jli8wym2e73nrqi1p.cfd
 +.yl2zmpr5xermgw4itm4q9qx8v.cfd
@@ -65137,7 +65134,6 @@ mepodownload.mediatek.com
 +.4vn6y527c4mmvi1t53z9n.cfd
 +.18zkj1qlruj79oyq63f6w.cfd
 +.zq4pngk51onmbp89i1f9.cfd
-+.zhiqzwrcnh3vu1on2blo.cfd
 +.z5cgvvwvwryxyq5j29i4.cfd
 +.wristedbirdleterring.cfd
 +.utahansninonsconamed.cfd
@@ -65174,7 +65170,6 @@ mepodownload.mediatek.com
 +.glancesidahoanobarni.cfd
 +.ganyieprussicchisels.cfd
 +.fv9y4lpixpghw3757oq7.cfd
-+.fowlerydyewoodincite.cfd
 +.flowinghypuralcincha.cfd
 +.fingrampalaversandra.cfd
 +.falconsanywiseunmaze.cfd
@@ -65574,6 +65569,7 @@ mepodownload.mediatek.com
 +.wjvhbfbl83v4t1.cfd
 +.wingerswetchet.cfd
 +.vxkmmic4lwziz9.cfd
++.violinspickets.cfd
 +.vicaireuniaxal.cfd
 +.v8uq327bic54hq.cfd
 +.uzbekchatibaba.cfd
@@ -65590,6 +65586,7 @@ mepodownload.mediatek.com
 +.thawieratlases.cfd
 +.terrierpoleman.cfd
 +.tarzansaminate.cfd
++.synchednombles.cfd
 +.sullensbondman.cfd
 +.sobbingalchemy.cfd
 +.saccagerevests.cfd
@@ -65605,7 +65602,6 @@ mepodownload.mediatek.com
 +.qeyxf31oijnn9b.cfd
 +.prspuntstenons.cfd
 +.prewarmritards.cfd
-+.presleysemidry.cfd
 +.prefillcatchie.cfd
 +.polewigeyehook.cfd
 +.pikeletrabbity.cfd
@@ -65647,7 +65643,6 @@ mepodownload.mediatek.com
 +.m3prikb9r529tw.cfd
 +.lyrurusasarite.cfd
 +.lwkkjmi23g76j2.cfd
-+.lupinusragweed.cfd
 +.limacearaunchy.cfd
 +.lf21cgfgpg2cfz.cfd
 +.lditsdebriisar.cfd
@@ -65789,7 +65784,6 @@ mepodownload.mediatek.com
 +.seepedaphodal.cfd
 +.scutesetherol.cfd
 +.scullssouring.cfd
-+.scragsserener.cfd
 +.schermtictacs.cfd
 +.scentsgalliot.cfd
 +.sasaniairview.cfd
@@ -65824,6 +65818,7 @@ mepodownload.mediatek.com
 +.nonjuryaflare.cfd
 +.ig.nondarkdarnix.cfd
 +.nickeyperatae.cfd
++.nastikasitual.cfd
 +.mysianessayer.cfd
 +.murrayownness.cfd
 +.mulveldropvie.cfd
@@ -66114,6 +66109,7 @@ mepodownload.mediatek.com
 +.chunkyaward.cfd
 +.bywaycosine.cfd
 +.butylplexor.cfd
++.buddhasoppy.cfd
 +.bryoncorpse.cfd
 +.boltsafeway.cfd
 +.bloodedwhig.cfd
@@ -66195,7 +66191,6 @@ mepodownload.mediatek.com
 +.togtmicah.cfd
 +.stofdance.cfd
 +.rtichevre.cfd
-+.rnmessier.cfd
 +.rapidsend.cfd
 +.ax.poopswomp.cfd
 +.olpesrein.cfd
@@ -66533,6 +66528,7 @@ mepodownload.mediatek.com
 +.dhl-event.app
 +.matomo.crossiety.app
 +.gdpr-legal-cookie.beeclever.app
++.widget.yourgood.app
 +.widget.teletype.app
 +.1of1.skipcash.app
 +.land.pixelsee.app
@@ -66585,11 +66581,13 @@ mepodownload.mediatek.com
 +.giaodichquoctes.vercel.app
 +.airbnb-pi-three.vercel.app
 +.wester-union-u.vercel.app
++.police2306work.vercel.app
 +.police2206work.vercel.app
 +.police1906work.vercel.app
 +.max-add-mobile.vercel.app
 +.trezosuiteapp.vercel.app
 +.signature-rho.vercel.app
++.policecontrol.vercel.app
 +.photodpt-rus.vercel.app
 +.danakagetrsm.vercel.app
 +.adsg00gle-v3.vercel.app
@@ -68025,7 +68023,6 @@ vietpool.vddns.vn
 +.seldos.com.tr
 +.pratik.com.tr
 +.banner.kanald.com.tr
-+.fertas.com.tr
 +.xshop.com.tr
 +.pixad.com.tr
 +.ad.dline.com.tr
@@ -70615,7 +70612,6 @@ vietpool.vddns.vn
 +.datado.me
 +.cltx19.me
 +.clmm34.me
-+.cliffg.me
 +.bemcll.me
 +.ad.apl298.me
 +.adlook.me
@@ -71722,6 +71718,7 @@ vietpool.vddns.vn
 +.eosblocksmith.io
 +.deltaexecutor.io
 +.challengecoin.io
++.push.brownbrothers.io
 +.apolloprogram.io
 +.zerocurrency.io
 +.spacefarmers.io
@@ -72633,6 +72630,7 @@ vietpool.vddns.vn
 +.niwocgaqsx.in
 +.ncuzfebhum.in
 +.nakxroruha.in
++.lwitivbums.in
 +.luqludlzet.in
 +.lumsuzfmuo.in
 +.ltethusmal.in
@@ -72974,7 +72972,6 @@ vietpool.vddns.vn
 +.mail.tropmet.res.in
 +.uniswap.org.in
 +.shopee.org.in
-+.spoar.org.in
 +.continentalgroup.net.in
 +.hokashopindia.net.in
 +.maintainconnection.co.in
@@ -74676,6 +74673,7 @@ vietpool.vddns.vn
 +.l.touteleurope.eu
 +.call.thebutterfly.eu
 +.page-checker.eu
++.static.249.223.175.5.nextregister.eu
 +.tags.ipp-services.eu
 +.cryptoescrow.eu
 +.cashpartners.eu
@@ -76226,7 +76224,6 @@ vietpool.vddns.vn
 +.assets.werally.co
 +.unigogo.co
 +.ufocoin.co
-+.icash.trymore.co
 +.rikmomo.co
 +.repixel.co
 +.rejuvit.co
@@ -76423,8 +76420,8 @@ vietpool.vddns.vn
 +.ad.allyes.cn
 +.aichia.cn
 +.aapool.cn
++.1827897262.v.123pan.cn
 +.yrwap.cn
-+.static.youdm.cn
 +.ce.wlaoc.cn
 +.v.vl404.cn
 +.unityads.unity.cn
@@ -76499,6 +76496,7 @@ vietpool.vddns.vn
 +.cn-wps-zh.com.cn
 +.tranyasy.com.cn
 +.sougoupy.com.cn
++.down.qqfarmer.com.cn
 +.qishuide.com.cn
 +.synad2.nuffnang.com.cn
 +.lineapps.com.cn
@@ -76907,6 +76905,7 @@ vietpool.vddns.vn
 +.techblogs.cc
 +.tagbucket.cc
 +.smartcash.cc
++.s3-python.cc
 +.rehvbghwe.cc
 +.omegapool.cc
 +.millpools.cc
@@ -77642,6 +77641,7 @@ vietpool.vddns.vn
 +.event.filum.ai
 +.cunda.ai
 +.clore.ai
++.adzen.ai
 +.stats.lab.zalo.ai
 +.api.tomi.ai
 +.widget.moin.ai
